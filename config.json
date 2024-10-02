@@ -1,0 +1,12 @@
+{
+    "id_cols": [
+        "Artikelnr",
+        "Art.nr"
+    ],
+    "data": {
+        "Artikel nummer": "Artikelnr",
+        "Benämning": "Benämning",
+        "Antal sålt": "Antal",
+        "I lager": "Antal i lager"
+    }
+}

@@ -1,39 +1,59 @@
-import html
-import re
-from product import Product, Warehouse
+from openpyxl import Workbook
+import tkinter as tk
+from tkinter import filedialog
 
-with open("Lagerlista.html", "r") as fp:
+workbook = Workbook()
+sheet = workbook.active
+all_products = {}
+
+root = tk.Tk()
+root.withdraw()
+stock_list = filedialog.askopenfilename(title="Välj lagerlista")
+product_statistics = filedialog.askopenfilename(title="Välj artikelstatistik")
+
+with open(stock_list, "r", encoding='latin-1') as fp:
     document = fp.read()
-document = document.split("<body>")[1]
-document = document.split("</body>")[0]
-document = document.split('<table width="100%">')
 
-w = Warehouse()
+document = document.split("-------------------------")[1]
+document = document.strip().split("\n")
 
-for a in document[3:-1]:
-    b = a.replace("\n", "").replace("\t", "").replace(" ", "")
-    b = [html.unescape(i) for i in re.split(r"<[^>]*>", b) if i]
-    id, label, index, stock_warning, in_stock, cost, value = b
-    index = int(index)
-    stock_warning = int(stock_warning[:-3])
-    in_stock = int(in_stock[:-3])
-    cost = float(cost.replace(",", "."))
-    value = float(value.replace(",", "."))
-
-    p = Product(id, label, index, stock_warning, in_stock, cost, value)
-    w.new_product(p)
+for article in document:
+    a = article.replace(" ", "").replace(",", ".")
+    a = a.strip().split("\t")
+    id, label, _, _, in_stock, _, _ = a
+    in_stock = float(in_stock)
+    all_products[id] = {"label": label, "in_stock": in_stock}
 
 
-with open("Artikelstatistik.html", "r") as fp:
+with open(product_statistics, "r", encoding='latin-1') as fp:
     document = fp.read()
-document = document.split("<body>")[1]
-document = document.split("</body>")[0]
 
-document = document.split('<table width="100%" border="0" class="nospacing">')
-for a in document[2:]:
-    b = a.replace("\n", "").replace("\t", "").replace(" ", "")
-    b = [html.unescape(i) for i in re.split(r"<[^>]*>", b) if i]
-    id, label, amount, total, _, _ = b
-    amount = float(amount.replace(" ", "").replace(",", "."))
-    total = float(total.replace(" ", "").replace(",", "."))
-    print(id, label, amount, total)
+document = document.split("-------------------------")[1]
+document = document.strip().split("\n")
+found = []
+not_found = []
+products = {}
+for article in document:
+    # print("#", article)
+    a = article.replace(" ", "").replace(",", ".")
+    a = a.strip().split("\t")
+    if len(a) != 5:
+        continue
+    id, label, _, sold, _ = a
+    if id not in all_products:
+        continue
+    found.append(id)
+    products[id] = all_products[id]
+    products[id]["sold"] = sold
+
+sheet[f"A1"] = "id"
+sheet[f"B1"] = "label"
+sheet[f"C1"] = "in_stock"
+sheet[f"D1"] = "sold"
+for i, (id, product) in enumerate(products.items()):
+    sheet[f"A{i+2}"] = id
+    sheet[f"B{i+2}"] = product["label"]
+    sheet[f"C{i+2}"] = product["in_stock"]
+    sheet[f"D{i+2}"] = product["sold"]
+
+workbook.save(filename="output.xlsx")

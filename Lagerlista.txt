@@ -1,0 +1,1611 @@
+
+  Hantverk o Keramikcenter AB
+ 556507-6253
+  Lagerlista	 Utskrivet 2024-09-03 12:42
+ Artikelnr	 Benämning	 Lagerplats	 Lagervarning	 Antal i lager	 Kalkylkostnad	 Lagervärde	 
+-------------------------
+ AB-484	 Dalahäst stor - 6 st	 19	 5,00	 0,00	 336,00	 0,00	 
+ AB-485	 Dalahäst mellan - 5 st.	 19	 2,00	 0,00	 248,00	 0,00	 
+ AB-502	 Dalahäst mini - 4 st.	 19	 2,00	 0,00	 105,00	 0,00	 
+ ABR-22628J	 Standard Die Set	 77	 1,00	 0,00	 492,00	 0,00	 
+ ABWB	 Brent Drejskiva B - Beställningsvara	 77	 1,00	 0,00	 13 065,00	 0,00	 
+ ABWC	 Brent Drejskiva C - Beställningsvara	 77	 1,00	 0,00	 10 587,50	 0,00	 
+ AC-A273	 ArtClay silverlera - 10 g	 10	 126,00	 95,00	 137,00	 13 015,00	 
+ AC-A274	 ArtClay silverlera - 20 g	 10	 410,00	 196,00	 222,00	 43 512,00	 
+ AC-A275	 ArtClay silverlera - 50 g	 10	 38,00	 19,00	 550,00	 10 450,00	 
+ AC-A279	 ArtClay spruta - 10 g	 10	 87,00	 24,00	 115,00	 2 760,00	 
+ AC-A280	 ArtClay spruta med munstycke - 10 g	 10	 43,00	 18,00	 124,00	 2 232,00	 
+ AC-A285	 ArtClay pasta - 10 g	 10	 61,00	 41,00	 133,00	 5 453,00	 
+ AC-A286	 ArtClay pasta - 20 g	 10	 60,00	 20,00	 260,00	 5 200,00	 
+ AC-A300	 ArtClay kopparlera - 50 g	 10	 36,00	 20,00	 67,00	 1 340,00	 
+ AC-A335	 ArtClay bronslera - 50 g	 10	 12,00	 7,00	 95,00	 665,00	 
+ AC-F0326	 Poleringskräm	 10	 2,00	 1,00	 52,00	 52,00	 
+ AC-F149	 Betmedel metall-leror	 10	 1,00	 0,00	 62,00	 0,00	 
+ AC-F1767	 Cherrie Blossoms - form	 10	 1,00	 0,00	 82,00	 0,00	 
+ AC-HOTK	 Klossar HotPot - 3 st	 12	 1,00	 0,00	 10,00	 0,00	 
+ AC-HOTL	 Hot Pot Large	 12	 16,00	 7,00	 210,00	 1 470,00	 
+ AC-HOTS	 Hot Pot Small	 12	 10,00	 7,00	 180,00	 1 260,00	 
+ AC-R058	 Slipsvamp #240-320	 10	 12,00	 6,00	 20,00	 120,00	 
+ AC-R059	 Slipsvamp #320-600	 10	 12,00	 10,00	 20,00	 200,00	 
+ AC-R060	 Slipsvamp #800-1000	 10	 12,00	 11,00	 20,00	 220,00	 
+ AC-R061	 Slipsvamp #1200-1500	 10	 12,00	 9,00	 20,00	 180,00	 
+ AC-SC1	 Stål behållare - d 9 x h 6 cm	 12	 2,00	 1,00	 69,50	 69,50	 
+ AC-SM018	 Silkonform - Knapp nr 7	 12	 1,00	 0,00	 22,40	 0,00	 
+ AC-SM019	 Silkonform - Knapp nr 8	 12	 1,00	 0,00	 22,40	 0,00	 
+ ADC01-2	 Everlasting	 41	 1,00	 0,00	 10,10	 0,00	 
+ ADC02-2	 Lace	 41	 3,00	 0,00	 8,30	 0,00	 
+ ADC13-2	 Refreshing	 41	 2,00	 0,00	 10,10	 0,00	 
+ ADC17-2	 Vintage	 41	 3,00	 0,00	 8,30	 0,00	 
+ ADC25-2	 Rustic	 41	 3,00	 0,00	 8,30	 0,00	 
+ ADC26-2	 Primitive	 41	 3,00	 -3,00	 8,30	 -24,90	 
+ ADL-20	 Floating Blue	 17	 2,00	 1,00	 700,00	 700,00	 
+ ADMTL07	 Sterling Silver	 41	 2,00	 1,00	 43,60	 43,60	 
+ ADOL02	 Picket Fence	 43	 3,00	 1,00	 41,30	 41,30	 
+ AG-217	 Pink (transp)	 90	 6,00	 0,00	 5,40	 0,00	 
+ AG-503	 Sky of Fire	 90	 15,00	 2,00	 24,00	 48,00	 
+ AG-506	 Totally Spaced	 90	 12,00	 5,00	 24,00	 120,00	 
+ AP-4	 Amaco solfjäderpensel - #4 - 3,5 cm	 50	 12,00	 7,00	 76,50	 535,50	 
+ C-10D	 Snow - doppglasyr	 17	 6,00	 4,00	 535,00	 2 140,00	 
+ C-19	 Glacier	 17	 18,00	 11,00	 70,00	 770,00	 
+ C-21	 Sky	 17	 29,00	 9,00	 70,00	 630,00	 
+ C-21D	 Sky - doppglasyr	 17	 2,00	 1,00	 535,00	 535,00	 
+ C-21G	 Sky - 3,78l	 17	 3,00	 1,00	 311,50	 311,50	 
+ C-22	 Fog	 17	 30,00	 15,00	 70,00	 1 050,00	 
+ C-22D	 Fog - doppglasyr	 17	 2,00	 1,00	 560,00	 560,00	 
+ C-23	 Ice	 17	 35,00	 13,00	 70,00	 910,00	 
+ C-24	 Succulent	 17	 12,00	 5,00	 70,00	 350,00	 
+ C-25	 Downpour	 17	 35,00	 10,00	 70,00	 700,00	 
+ C-26	 Lagoon	 17	 8,00	 0,00	 70,00	 0,00	 
+ C-27	 Storm	 17	 35,00	 10,00	 70,00	 700,00	 
+ C-29	 Deep Sea	 17	 35,00	 26,00	 70,00	 1 820,00	 
+ C-32	 Ochre	 17	 35,00	 14,00	 70,00	 980,00	 
+ C-33	 Sandalwood	 17	 8,00	 4,00	 70,00	 280,00	 
+ C-36	 Iron	 17	 25,00	 9,00	 70,00	 630,00	 
+ C-3D	 Smoke - Doppglasyr	 17	 3,00	 2,00	 535,00	 1 070,00	 
+ C-40	 Aqua	 17	 35,00	 17,00	 70,00	 1 190,00	 
+ C-40D	 Aqua - doppglasyr	 17	 3,00	 1,00	 535,00	 535,00	 
+ C-41	 Pear	 17	 35,00	 13,00	 70,00	 910,00	 
+ C-43	 Wasabi	 17	 35,00	 12,00	 70,00	 840,00	 
+ C-47D	 Jade - Doppglasyr	 17	 4,00	 3,00	 560,00	 1 680,00	 
+ C-49D	 Rainforest - doppglasyr	 17	 5,00	 1,00	 535,00	 535,00	 
+ C-5	 Charcoal	 17	 13,00	 7,00	 70,00	 490,00	 
+ C-50	 Cherry Blossom	 17	 35,00	 7,00	 70,00	 490,00	 
+ C-50D	 Cherry Blossom - doppglasyr	 17	 2,00	 1,00	 535,00	 535,00	 
+ C-52	 Red Rock	 17	 8,00	 6,00	 70,00	 420,00	 
+ C-54	 Snapdragon	 17	 45,00	 22,00	 70,00	 1 540,00	 
+ C-55	 Poppy	 17	 35,00	 14,00	 70,00	 980,00	 
+ C-57	 Mulberry	 17	 35,00	 18,00	 70,00	 1 260,00	 
+ C-65	 Tangelo	 17	 35,00	 25,00	 70,00	 1 750,00	 
+ CB604	 Mayco solfjäderpensel - #4 - 3,5 cm	 50	 8,00	 0,00	 35,80	 0,00	 
+ CG-1001	 Gogh Iris	 35	 2,00	 1,00	 94,10	 94,10	 
+ CG-1002	 Day Lily	 35	 2,00	 0,00	 94,10	 0,00	 
+ CG-1003	 Peach Party	 35	 2,00	 0,00	 94,10	 0,00	 
+ CG-1007	 Blueberry Bubblegum	 35	 2,00	 1,00	 94,10	 94,10	 
+ CG-707	 Woodland Fantasy	 35	 1,00	 0,00	 94,10	 0,00	 
+ CG-713	 Peacock Green	 35	 1,00	 0,00	 94,10	 0,00	 
+ CG-722	 Seawind	 35	 2,00	 0,00	 94,10	 0,00	 
+ CG-785	 Royal Fantasy	 35	 1,00	 0,00	 94,10	 0,00	 
+ CG-786	 Obsidian	 35	 5,00	 0,00	 94,10	 0,00	 
+ CG-798	 Black Iris	 35	 2,00	 1,00	 94,10	 94,10	 
+ CG-962	 Blue Azure	 35	 9,00	 8,00	 94,10	 752,80	 
+ CG-969	 Floral Fantasy	 35	 1,00	 0,00	 94,10	 0,00	 
+ CG-973	 Alligator	 35	 2,00	 1,00	 94,10	 94,10	 
+ CG-974	 Bloomin Blue	 35	 5,00	 4,00	 94,10	 376,40	 
+ CG-979	 Meadow	 35	 2,00	 1,00	 94,10	 94,10	 
+ CG-982	 Mixed Melon	 35	 2,00	 0,00	 94,10	 0,00	 
+ CG-984	 Ladybug	 35	 1,00	 0,00	 94,10	 0,00	 
+ CG-985	 Monet&#x27;s Pond	 35	 1,00	 0,00	 94,10	 0,00	 
+ CGkit2	 Jungle Gems kit 118 ml	 35	 1,00	 0,00	 312,00	 0,00	 
+ CO-6	 Supernova	 17	 12,00	 1,00	 126,00	 126,00	 
+ CO-7	 Solar Flare	 17	 12,00	 8,00	 126,00	 1 008,00	 
+ DA106	 Light Avocado	 40	 7,00	 0,00	 9,30	 0,00	 
+ DA111	 Grey Sky	 40	 15,00	 4,00	 9,30	 37,20	 
+ DA113	 Plantation Pine	 40	 9,00	 7,00	 9,30	 65,10	 
+ DA114	 Light Cinnamon	 40	 12,00	 4,00	 9,30	 37,20	 
+ DA117	 White Pearl	 40	 12,00	 11,00	 10,50	 115,50	 
+ DA133	 Hauser Dark Green	 40	 7,00	 0,00	 9,30	 0,00	 
+ DA14	 Cadmium Orange	 40	 2,00	 1,00	 9,30	 9,30	 
+ DA148	 Emperors Gold	 40	 5,00	 4,00	 10,50	 42,00	 
+ DA16	 Burnt Orange	 40	 14,00	 8,00	 9,30	 74,40	 
+ DA160	 Antique Maroon	 40	 13,00	 10,00	 9,30	 93,00	 
+ DA163	 Honey Brown	 40	 29,00	 20,00	 9,30	 186,00	 
+ DA164	 Light Buttermilk	 40	 14,00	 8,00	 9,30	 74,40	 
+ DA166	 Deep Midnight Blue	 40	 15,00	 2,00	 9,30	 18,60	 
+ DA168	 Golden Straw	 40	 3,00	 2,00	 9,30	 18,60	 
+ DA169	 Tomato Red	 40	 15,00	 14,00	 9,30	 130,20	 
+ DA170	 Santa Red	 40	 42,00	 23,00	 9,30	 213,90	 
+ DA171	 Driftwood	 40	 12,00	 3,00	 9,30	 27,90	 
+ DA175	 Plum	 20	 4,00	 0,00	 9,30	 0,00	 
+ DA180	 Asphaltum	 40	 9,00	 4,00	 9,30	 37,20	 
+ DA19	 Berry Red	 40	 7,00	 0,00	 9,30	 0,00	 
+ DA190	 Winter Blue	 40	 15,00	 6,00	 9,30	 55,80	 
+ DA193	 Blue Chiffon	 40	 2,00	 0,00	 9,30	 0,00	 
+ DA194	 Marigold	 40	 12,00	 5,00	 9,30	 46,50	 
+ DA195	 Bittersweet Chocolate	 40	 18,00	 16,00	 9,30	 148,80	 
+ DA202	 Champagne Gold	 40	 16,00	 14,00	 10,50	 147,00	 
+ DA219	 Heritage Brick	 40	 9,00	 0,00	 9,30	 0,00	 
+ DA221	 Traditional Burnt Umber	 40	 7,00	 4,00	 9,30	 37,20	 
+ DA223	 Trad. Burnt Sienna	 40	 8,00	 1,00	 9,30	 9,30	 
+ DA227	 Bright Yellow	 40	 15,00	 0,00	 9,30	 0,00	 
+ DA228	 Bright Orange	 40	 12,00	 6,00	 9,30	 55,80	 
+ DA234	 Calypso Blue	 40	 6,00	 2,00	 9,30	 18,60	 
+ DA235	 Citron Green	 40	 4,00	 3,00	 9,30	 27,90	 
+ DA239	 Warm White	 40	 38,00	 23,00	 9,30	 213,90	 
+ DA245	 Rich Espresso	 40	 18,00	 16,00	 8,30	 132,80	 
+ DA250	 Bubblegum Pink	 40	 12,00	 1,00	 9,30	 9,30	 
+ DA251	 Melon	 40	 2,00	 1,00	 9,30	 9,30	 
+ DA255	 Bahama Blue	 40	 4,00	 3,00	 9,30	 27,90	 
+ DA263	 Splendid Gold - 59 ml	 40	 7,00	 5,00	 10,50	 52,50	 
+ DA265	 Tuscan Red	 40	 9,00	 7,00	 9,30	 65,10	 
+ DA268	 Turquoise Blue	 40	 3,00	 0,00	 9,30	 0,00	 
+ DA269	 Foliage Green	 40	 12,00	 6,00	 9,30	 55,80	 
+ DA271	 Espresso	 40	 12,00	 8,00	 9,30	 74,40	 
+ DA273	 Saffron Yellow	 40	 12,00	 3,00	 9,30	 27,90	 
+ DA274	 Carousel Pink	 40	 5,00	 0,00	 9,30	 0,00	 
+ DA3	 Buttermilk	 40	 14,00	 13,00	 9,30	 120,90	 
+ DA301	 Red Alert	 40	 7,00	 4,00	 9,30	 37,20	 
+ DA303	 Pebble	 40	 12,00	 6,00	 9,30	 55,80	 
+ DA304	 Zinc	 40	 12,00	 9,00	 9,30	 83,70	 
+ DA307	 Mink Pearl	 40	 6,00	 2,00	 10,50	 21,00	 
+ DA310	 Spiced Pumpkin	 40	 7,00	 3,00	 9,30	 27,90	 
+ DA311	 Natural Buff	 40	 18,00	 9,00	 9,30	 83,70	 
+ DA313	 Oyster Beige	 40	 18,00	 0,00	 9,30	 0,00	 
+ DA328	 Grey Storm	 40	 10,00	 1,00	 9,30	 9,30	 
+ DA333	 Aqua Sky	 40	 9,00	 5,00	 9,30	 46,50	 
+ DA334	 Colonial Blue	 40	 6,00	 4,00	 9,30	 37,20	 
+ DA336	 Rose Gold	 40	 6,00	 0,00	 10,50	 0,00	 
+ DA345	 Scarlet	 40	 6,00	 0,00	 9,30	 0,00	 
+ DA346	 Coral	 40	 1,00	 0,00	 9,30	 0,00	 
+ DA351	 Bright Blue	 40	 11,00	 0,00	 9,30	 0,00	 
+ DA364	 Aloe	 40	 20,00	 12,00	 9,30	 111,60	 
+ DA367	 Lilac Meadow	 40	 3,00	 0,00	 9,30	 0,00	 
+ DA368	 Magenta	 40	 3,00	 2,00	 9,30	 18,60	 
+ DA377	 Royal Navy	 40	 8,00	 1,00	 9,30	 9,30	 
+ DA39	 Victorian Blue	 40	 3,00	 0,00	 9,30	 0,00	 
+ DA390	 Cobblestone	 40	 30,00	 21,00	 9,30	 195,30	 
+ DA391	 Cinnamon Stick	 40	 8,00	 5,00	 9,30	 46,50	 
+ DA395	 Joyful Pink	 40	 9,00	 8,00	 9,30	 74,40	 
+ DA398	 Baby Blush	 40	 9,00	 3,00	 9,30	 27,90	 
+ DA399	 Celery Shoot	 40	 4,00	 0,00	 9,30	 0,00	 
+ DA402	 Gentle Heather	 40	 7,00	 4,00	 9,30	 37,20	 
+ DA411	 Portobello	 40	 12,00	 0,00	 9,30	 0,00	 
+ DA48	 Holly Green	 40	 6,00	 5,00	 9,30	 46,50	 
+ DA50	 Forest Green	 40	 12,00	 4,00	 9,30	 37,20	 
+ DA521	 Green Beret	 40	 1,00	 0,00	 10,90	 0,00	 
+ DA527	 Blue Bird	 40	 3,00	 0,00	 10,90	 0,00	 
+ DA534	 Brown Sugar	 40	 1,00	 0,00	 10,90	 0,00	 
+ DA570	 Metallic - Gunmetal	 40	 8,00	 0,00	 9,90	 0,00	 
+ DA573	 Raspberry	 40	 4,00	 2,00	 10,90	 21,80	 
+ DA58	 Antique White	 40	 13,00	 6,00	 9,30	 55,80	 
+ DA59	 Toffee	 40	 24,00	 0,00	 9,30	 0,00	 
+ DA61	 Sable Brown	 40	 15,00	 0,00	 9,30	 0,00	 
+ DA65	 Dark Chocolate	 40	 25,00	 11,00	 9,30	 102,30	 
+ DA67	 Lamp (Ebony) Black	 40	 88,00	 72,00	 9,30	 669,60	 
+ DA67-16	 Lamp (Ebony) Black	 40	 13,00	 3,00	 40,70	 122,10	 
+ DA68	 Slate Grey	 40	 2,00	 0,00	 9,30	 0,00	 
+ DA70	 Shimmering Silver	 40	 18,00	 0,00	 10,50	 0,00	 
+ DA71	 Glorious Gold	 40	 10,00	 7,00	 10,50	 73,50	 
+ DA75	 Ice Blue	 40	 10,00	 1,00	 10,50	 10,50	 
+ DA76	 Crystal Green	 40	 9,00	 0,00	 10,50	 0,00	 
+ DA9	 Antique Gold	 40	 15,00	 10,00	 9,30	 93,00	 
+ DA93	 Raw Sienna	 40	 18,00	 16,00	 9,30	 148,80	 
+ DA94	 Mississippi Mud	 40	 6,00	 3,00	 9,30	 27,90	 
+ DA99	 Sapphire Blue	 40	 9,00	 0,00	 9,30	 0,00	 
+ DAG230	 Festive Green	 41	 1,00	 0,00	 10,70	 0,00	 
+ DAP01	 Pearls - Snow White	 48	 12,00	 9,00	 10,70	 96,30	 
+ DAP129	 Pearls - True Red	 48	 12,00	 11,00	 10,70	 117,70	 
+ DAP227	 Pearls - Bright Yellow	 48	 3,00	 0,00	 10,70	 0,00	 
+ DAP228	 Pearls - Bright Orange	 48	 12,00	 4,00	 10,70	 42,80	 
+ DAP272	 Pearls - Purple Cow	 48	 1,00	 0,00	 10,70	 0,00	 
+ DAS10	 Textil Medium	 40	 3,00	 0,00	 7,60	 0,00	 
+ DASK568	 Patina - set	 41	 8,00	 3,00	 40,30	 120,90	 
+ DASK574	 Cast Bronze- set	 41	 9,00	 8,00	 40,30	 322,40	 
+ DCP401	 Rich Espresso	 43	 10,00	 9,00	 10,70	 96,30	 
+ DCP84	 Splendid Gold	 43	 9,00	 1,00	 10,70	 10,70	 
+ DCP96	 Turkish Teal	 43	 3,00	 0,00	 10,70	 0,00	 
+ DCT3	 Gold	 48	 4,00	 3,00	 10,70	 32,10	 
+ DCT4	 Christmas Green	 48	 4,00	 2,00	 10,70	 21,40	 
+ DCW01	 Black - Wash Effect	 41	 3,00	 1,00	 6,60	 6,60	 
+ DCW02	 White - Wash Effect	 41	 2,00	 1,00	 6,60	 6,60	 
+ DCW10	 Patina - Wash Effect	 41	 2,00	 0,00	 6,60	 0,00	 
+ DE02	 Enchanted - Green	 48	 3,00	 0,00	 14,60	 0,00	 
+ DEB-117C	 Kaprifol - 75 mm - 2 st.	 65	 8,00	 0,00	 3,29	 0,00	 
+ DEB-117D	 Kaprifol - 45 mm - 2 st.	 65	 10,00	 0,00	 2,21	 0,00	 
+ DEB-156C	 Undulater - 75 mm - 1 st	 65	 6,00	 0,00	 2,02	 0,00	 
+ DEB-162B	 Fuchsia - 80 mm - 1 st.	 65	 4,00	 3,00	 2,69	 8,07	 
+ DEB-229D	 Julros - 88 mm - 1 st.	 65	 5,00	 4,00	 1,65	 6,60	 
+ DEB-230C	 Blå delft - 50 x 47 mm - 4 st.	 65	 4,00	 2,00	 4,79	 9,58	 
+ DEB-230H	 Blå delft 24 mm set av 3 - 16 set	 65	 6,00	 3,00	 16,96	 50,88	 
+ DEB-2319C	 Fjäril & bi - 30 x 20 mm - 2 par	 65	 7,00	 3,00	 2,74	 8,22	 
+ DEB-2321C	 Fjäril & stor mal - 30 x 20 mm - 2 par	 65	 2,00	 0,00	 2,74	 0,00	 
+ DEB-2322C	 Fjäril & mal - 30 x 20 mm - 2 par	 65	 2,00	 0,00	 2,74	 0,00	 
+ DEB-2323D	 Humla & nyckelpiga - 24 mm - 2 par	 65	 1,00	 0,00	 1,55	 0,00	 
+ DEB-2384D	 Julgran - 70 mm - 1 st.	 65	 10,00	 9,00	 2,83	 25,47	 
+ DEB-2598-50	 Bondgårdsdjur - 50 mm - set av 4	 65	 2,00	 0,00	 2,94	 0,00	 
+ DEB-2621B	 Gunghäst - 75 mm - 2 st.	 65	 3,00	 2,00	 2,83	 5,66	 
+ DEB-2625N	 Grön bård - 40 mm - 5 st.	 65	 3,00	 0,00	 3,42	 0,00	 
+ DEB-2737	 Murgröna Ros 70x50cm	 65	 2,00	 1,00	 73,46	 73,46	 
+ DEB-2788C	 Fuchsia - 100 mm - 1 st.	 65	 10,00	 2,00	 2,27	 4,54	 
+ DEB-2788F	 Fuchsia - 42 mm - 5 st.	 65	 9,00	 1,00	 2,92	 2,92	 
+ DEB-2811	 Hönsgård 75 x70 mm - set med 12 st.	 65	 3,00	 2,00	 26,29	 52,58	 
+ DEB-2850C	 Rosa rosor - 75 mm - 4 st.	 65	 15,00	 1,00	 4,97	 4,97	 
+ DEB-2958	 Fjärilar I 70x50cm	 65	 2,00	 0,00	 73,46	 0,00	 
+ DEB-2963-75	 Olika fjärilar - 75 mm - set med 6 st.	 65	 1,00	 0,00	 11,47	 0,00	 
+ DEB-2.FSS	 Blåklocka - 40 mm - 10 st.	 65	 3,00	 0,00	 1,71	 0,00	 
+ DEB-2.JR3	 Ros - 40 mm - 5 st.	 65	 20,00	 0,00	 2,65	 0,00	 
+ DEB-2.STK	 Sommartider - 40 mm - 5 st.	 65	 2,00	 1,80	 2,53	 4,55	 
+ DEB-3005	 Änglar 70x50cm	 65	 1,00	 0,00	 76,56	 0,00	 
+ DEB-3017	 Glada punkter 70x50cm	 65	 2,00	 0,00	 76,56	 0,00	 
+ DEB-3047	 Mistel 70x50cm	 65	 1,00	 0,00	 76,56	 0,00	 
+ DEB-3084	 Ormbunke 70x50cm	 65	 6,00	 1,00	 80,82	 80,82	 
+ DEB-3165	 Blue Daisy 70x50cm	 65	 1,00	 0,00	 76,56	 0,00	 
+ DEB-3177E	 Jordgubbe 58 x 35 mm - 5 st.	 65	 1,00	 0,00	 3,73	 0,00	 
+ DEB-3178C	 Jordgubbsros - 95 mm - 2 st.	 65	 3,00	 0,00	 3,57	 0,00	 
+ DEB-3245H	 Sommaranemone - 75x37 mm - 5 st.	 65	 2,00	 0,00	 7,94	 0,00	 
+ DEB-3254	 Fjärilar II 70x50cm	 65	 1,00	 0,00	 80,82	 0,00	 
+ DEB-3413A	 Glada får 45 mm - set av 3 st.	 65	 4,00	 0,00	 3,26	 0,00	 
+ DEB-3413B	 Glada kor 45 mm - set av 3 st.	 65	 6,00	 1,00	 3,26	 3,26	 
+ DEB-3413C	 Glada hästar 45 mm - set av 3 st.	 65	 10,00	 5,00	 3,26	 16,30	 
+ DEB-3425K	 Rosegarden - 30x30 mm - 5 st.	 65	 10,00	 9,00	 2,33	 20,97	 
+ DEB-3445-C60	 Två fyrar blå och röd - 60 mm - 1 par	 65	 2,00	 1,00	 3,09	 3,09	 
+ DEB-3449	 Murgröna 70x50cm	 65	 1,00	 0,00	 76,56	 0,00	 
+ DEB-3469C	 Vit blomsterprakt - 75 mm - 5 st.	 65	 5,00	 0,00	 7,65	 0,00	 
+ DEB-3494-75	 Krysantemum - 75 mm - 5 st.	 65	 5,00	 2,00	 7,65	 15,30	 
+ DEB-3496B	 Glada fjärilar 40 mm - set med 6 st.	 65	 6,00	 3,00	 6,45	 19,35	 
+ DEB-3497B2	 Humla - 23 mm - 5 st.	 65	 3,00	 0,00	 3,26	 0,00	 
+ DEB-3497C1	 Nyckelpiga - 18 mm - 5 st.	 65	 13,00	 8,00	 3,70	 29,60	 
+ DEB-3497C2	 Nyckelpiga - 12 mm - 5 st.	 65	 7,00	 0,00	 2,64	 0,00	 
+ DEB-3497C3	 Nyckelpiga - 8 mm - 5 st.	 65	 4,00	 0,00	 0,88	 0,00	 
+ DEB-3507C	 Pion - 75 mm - 2 st.	 65	 4,00	 0,00	 3,23	 0,00	 
+ DEB-3507F	 Pion - 37 mm - 5 st.	 65	 4,00	 0,00	 2,64	 0,00	 
+ DEB-3545	 Svart Elegans 70x50cm	 65	 1,00	 0,00	 37,62	 0,00	 
+ DEB-3552	 Fjädrar 70x50cm	 65	 1,00	 0,00	 76,56	 0,00	 
+ DEB-3569	 Safari svart 70x50cm	 65	 1,00	 0,00	 48,07	 0,00	 
+ DEB-3578	 Anemone 70x50cm	 65	 1,00	 0,00	 76,56	 0,00	 
+ DEB-3590	 Luftballong 70x50cm	 65	 2,00	 1,00	 76,56	 76,56	 
+ DEB-3597C	 Mini Blommor - Ark med 16 st - 30 mm	 65	 3,00	 1,00	 23,87	 23,87	 
+ DEB-3597E	 Mini Blommor - 5 set av 7 olika blommor	 65	 3,00	 2,00	 6,04	 12,08	 
+ DEB-3605	 Sångfåglar 70x50cm	 65	 1,00	 0,00	 80,85	 0,00	 
+ DEB-3606	 Blå hamn 70x50cm	 65	 2,00	 0,00	 53,42	 0,00	 
+ DEB-3617	 Splash 70x50cm	 65	 1,00	 0,00	 79,40	 0,00	 
+ DEB-3627	 Såpbubblor  70x50cm	 65	 1,00	 0,00	 74,84	 0,00	 
+ DEB-3644-B25	 Olika Skalbaggar - 25 mm - set av 24 st	 65	 2,00	 0,00	 18,42	 0,00	 
+ DEB-4313B	 Blå blom - 90 mm - 5 st.	 65	 3,00	 1,00	 7,94	 7,94	 
+ DEB-54923D	 Te blommor - 85x60 mm - ark med 6 st. olika	 65	 2,00	 0,00	 11,56	 0,00	 
+ DEB-57278-F80	 Dahlia 80 x 40 mm - 2 st.	 65	 15,00	 13,00	 3,61	 46,93	 
+ DEB-57293bits1	 Påsk -55 mm - set av 7	 65	 2,00	 1,00	 11,27	 11,27	 
+ DEB-57296A65	 Maskros - 65 mm - 4 st	 65	 8,00	 2,00	 2,85	 5,70	 
+ DEB-57331F	 Blomster Bukett - set av 3	 65	 6,00	 0,00	 1,40	 0,00	 
+ DEB-57331G	 Blomster Bukett - ark med 6 st	 65	 2,00	 0,00	 1,67	 0,00	 
+ DEB-57345-A70	 Vallmo 70 mm - 1 st.	 65	 9,00	 8,00	 2,21	 17,68	 
+ DEB-57385-A90	 Lotus 90 mm - 1 st.	 65	 9,00	 0,00	 4,96	 0,00	 
+ DEB-57394F80	 Tulpan 80 x 40 mm - 1 st.	 65	 10,00	 0,00	 2,06	 0,00	 
+ DEB-57397D	 Juldekorationer - 40x20 mm - set av 3	 65	 3,00	 1,00	 2,05	 2,05	 
+ DEB-57398B	 Två Linjer 66 cm - 2 och 2 mm - 4 linjer per ark	 65	 1,00	 0,00	 38,12	 0,00	 
+ DEB-57398C	 Linje 66 cm - 4 mm - 2 linjer per ark	 65	 1,00	 0,00	 25,17	 0,00	 
+ DEB-57398E	 Tjock Linje 80 cm - 15 mm - 1 linje per ark	 65	 1,00	 0,00	 16,28	 0,00	 
+ DEB-57399L	 Tusensköna - 95 mm - 1 st.	 65	 12,00	 9,00	 2,29	 20,61	 
+ DEB-57421A-135	 Löjtnants hjärta  - 150x60 mm - 1 st.	 65	 6,00	 1,00	 3,14	 3,14	 
+ DEB-57422B	 Lila fjäril - 75 mm - 1 st.	 65	 7,00	 5,00	 3,14	 15,70	 
+ DEB-57422E	 Blågul fjäril - 45 mm - 4 st.	 65	 6,00	 2,00	 5,41	 10,82	 
+ DEB-57422F45	 Svart/orange fjäril - 45 mm - 4 st.	 65	 4,00	 3,00	 4,29	 12,87	 
+ DEB-57436E	 7 Fjärilar - 6 set	 65	 1,00	 0,00	 7,71	 0,00	 
+ DEB-6146F	 Delft blå - 66 x 35 mm - 5 st.	 65	 7,00	 0,00	 3,42	 0,00	 
+ DEB-6721	 Ärtblommor 70x50cm	 65	 1,00	 0,00	 67,28	 0,00	 
+ DEB-816-B144	 Alfabet klassiskt 69 bokstäver - 5 mm - 1 ark	 65	 15,00	 13,00	 5,56	 72,28	 
+ DEB-816-B90	 Alfabet elegant 10 siffror - 7 mm - 5 set 0-9	 65	 2,00	 0,00	 4,97	 0,00	 
+ DEB-816-B91	 Alfabet elegant 64 bokstäver - 10 mm - 1 ark	 65	 6,00	 1,00	 9,52	 9,52	 
+ DEB-816-SB91	 Alfabet elegant small 69 bokstäver - 10 mm - 1 ark	 65	 4,00	 3,00	 7,12	 21,36	 
+ DEB-950F	 Murgröna - 40 mm - 5 st.	 65	 15,00	 14,00	 3,26	 45,64	 
+ DES01	 Enchanted Shimmer - White	 48	 8,00	 3,00	 10,60	 31,80	 
+ DGG14	 Champagne Stardust	 48	 2,00	 0,00	 11,60	 0,00	 
+ DL-100	 Fossil White	 39	 9,00	 0,00	 100,00	 0,00	 
+ DL-102	 Metamorphic Blue	 39	 4,00	 1,00	 100,00	 100,00	 
+ DL-105	 Black Ore	 39	 6,00	 0,00	 100,00	 0,00	 
+ DMMT09	 Aged Bronze	 48	 1,00	 0,00	 12,30	 0,00	 
+ DMMT10	 Emerald Green	 48	 1,00	 0,00	 12,30	 0,00	 
+ DPM03	 Rose Gold	 48	 13,00	 10,00	 12,30	 123,00	 
+ DPM05	 Vintage Brass	 48	 8,00	 -5,00	 12,30	 -61,50	 
+ DPM09	 Tin	 48	 12,00	 11,00	 12,30	 135,30	 
+ DPM12	 Pewter	 48	 11,00	 7,00	 12,30	 86,10	 
+ DPM13	 Silver	 48	 18,00	 12,00	 12,30	 147,60	 
+ DPM17	 Sapphire	 48	 16,00	 14,00	 12,30	 172,20	 
+ DPM20	 Ruby	 48	 18,00	 17,00	 12,30	 209,10	 
+ DPM21	 Peridot	 48	 12,00	 5,00	 12,30	 61,50	 
+ DPM23	 Rose Quartz	 48	 12,00	 4,00	 12,30	 49,20	 
+ DPM26	 Coral	 48	 9,00	 5,00	 12,30	 61,50	 
+ DPM30	 Deep Sapphire	 48	 9,00	 6,00	 12,30	 73,80	 
+ DS124-8	 Ultra matt lack - DuraClear 237 ml	 41	 8,00	 7,00	 42,20	 295,40	 
+ DS128	 Högglans lack - DuraClear 59 ml	 41	 20,00	 14,00	 12,20	 170,80	 
+ DS19-8	 Blank lack - DuraClear 237 ml	 41	 8,00	 0,00	 29,90	 0,00	 
+ DS28	 Maple Gel	 41	 15,00	 14,00	 9,30	 130,20	 
+ DS29	 Walnut Gel	 41	 5,00	 0,00	 9,30	 0,00	 
+ DS39	 Paint Adhesion Medium	 41	 3,00	 1,00	 7,60	 7,60	 
+ DS60-8	 Matt lack - DuraClear 237 ml	 41	 7,00	 4,00	 29,90	 119,60	 
+ DSS01	 SoSoft - White	 41	 3,00	 0,00	 9,90	 0,00	 
+ DSS102-2	 SoSoft - Brown	 41	 2,00	 0,00	 9,90	 0,00	 
+ DSS110-2	 SoSoft - Bright Coral	 41	 2,00	 1,00	 9,90	 9,90	 
+ DSS111	 Leaves	 62	 1,00	 0,00	 110,00	 0,00	 
+ DSS113	 Bugs	 62	 1,00	 0,00	 110,00	 0,00	 
+ DSS166	 Tropical Leaves	 62	 3,00	 1,00	 110,00	 110,00	 
+ DSS85	 SoSoft - Mediterranean Blue	 41	 2,00	 1,00	 9,90	 9,90	 
+ DSS88	 SoSoft - Red Pepper	 41	 2,00	 1,00	 9,90	 9,90	 
+ DSSFG02	 SoSoft - Champagne Gold - Glitter	 41	 2,00	 1,00	 11,60	 11,60	 
+ DTFP01	 Jet Black	 43	 2,00	 0,00	 11,60	 0,00	 
+ DTFP03	 Preppy Pink	 43	 2,00	 1,00	 11,60	 11,60	 
+ DTFP08	 Parakeet Green	 43	 2,00	 1,00	 11,60	 11,60	 
+ DTFP10	 Light Blue Sky	 43	 2,00	 1,00	 11,60	 11,60	 
+ EG001	 White Engobe	 35	 12,00	 11,00	 76,30	 839,30	 
+ EG005	 Black Engobe	 35	 6,00	 0,00	 76,30	 0,00	 
+ EL-118	 Blue Grotto	 35	 3,00	 1,00	 69,10	 69,10	 
+ EL-120	 Black Ice	 35	 1,00	 0,00	 69,10	 0,00	 
+ EL-137	 Black Adventurine	 35	 4,00	 2,00	 69,10	 138,20	 
+ EL-152	 Denim Blue	 35	 6,00	 1,00	 69,10	 69,10	 
+ EL-155	 Holiday Green	 35	 1,00	 0,00	 69,10	 0,00	 
+ EL-156	 Bluegrass	 35	 2,00	 1,00	 69,10	 69,10	 
+ EL-157	 Leaf Green	 35	 3,00	 1,00	 69,10	 69,10	 
+ EL-159	 Emerald Green	 35	 2,00	 1,00	 69,10	 69,10	 
+ FN-002	 Yellow	 35	 2,00	 0,00	 71,30	 0,00	 
+ FN-006	 Blue	 35	 4,00	 0,00	 71,30	 0,00	 
+ FN-009	 Black	 35	 18,00	 11,00	 71,30	 784,30	 
+ FN-014	 Antique White	 35	 12,00	 6,00	 71,30	 427,80	 
+ FN-018	 Bright Blue	 35	 1,00	 0,00	 71,30	 0,00	 
+ FN-019	 Dark Blue	 35	 1,00	 0,00	 71,30	 0,00	 
+ FN-024	 Gray	 35	 12,00	 4,00	 71,30	 285,20	 
+ FN-035	 Deep Red	 35	 2,00	 1,00	 71,30	 71,30	 
+ FN-057	 Periwinkle	 35	 3,00	 2,00	 71,30	 142,60	 
+ FN-215	 Aztek Jade	 35	 1,00	 0,00	 71,30	 0,00	 
+ FN-219	 Lustre Green	 35	 2,00	 0,00	 71,30	 0,00	 
+ FN-231	 Clearly Jade	 35	 1,00	 0,00	 71,30	 0,00	 
+ FN-237	 Light Turquoise	 35	 4,00	 2,00	 71,30	 142,60	 
+ FN-238	 Royal Blue	 35	 2,00	 0,00	 71,30	 0,00	 
+ FN-239	 Spiced Cream	 35	 6,00	 2,00	 71,30	 142,60	 
+ FN-301	 Marshmallow White	 35	 7,00	 6,00	 71,30	 427,80	 
+ FN-304	 Black Velvet	 35	 12,00	 9,00	 71,30	 641,70	 
+ FNkit3	 Foundations kit 118 ml	 35	 1,00	 0,00	 248,00	 0,00	 
+ FS-2303	 Lime Ricky	 32	 12,00	 0,00	 80,00	 0,00	 
+ FS-2305	 Blue Heaven	 32	 12,00	 7,00	 80,00	 560,00	 
+ FS-2308	 In The Pink	 32	 8,00	 1,00	 80,00	 80,00	 
+ FS-2309	 Red Rover	 32	 8,00	 4,00	 80,00	 320,00	 
+ FS-2310	 Teal Tomorrow	 32	 8,00	 5,00	 80,00	 400,00	 
+ FS-2313	 Happy Trails	 32	 12,00	 7,00	 80,00	 560,00	 
+ FS-2319	 This LiL Piggy	 32	 4,00	 2,00	 80,00	 160,00	 
+ FS-2320	 Grape Escape	 32	 5,00	 1,00	 80,00	 80,00	 
+ FS-2323	 Jumpin Jupiter	 32	 10,00	 6,00	 80,00	 480,00	 
+ FS-2324	 Hint-O-Mint	 32	 8,00	 5,00	 80,00	 400,00	 
+ FS-2327	 Blazing Saddle	 32	 8,00	 6,00	 80,00	 480,00	 
+ FS-2328	 Mocha-Chino	 32	 8,00	 4,00	 80,00	 320,00	 
+ FS-2329	 Hi Ho Silver	 32	 13,00	 6,00	 80,00	 480,00	 
+ FS-2335	 Tickled Pink	 32	 9,00	 3,00	 80,00	 240,00	 
+ FS-2336	 Wineona	 32	 8,00	 6,00	 80,00	 480,00	 
+ FS-2337	 LiL Boy Blue	 32	 8,00	 5,00	 80,00	 400,00	 
+ FS-2338	 Galaxy	 32	 8,00	 6,00	 80,00	 480,00	 
+ FS-2341	 Kermit	 32	 8,00	 6,00	 80,00	 480,00	 
+ FS-2342	 M.A.S.H.	 32	 4,00	 3,00	 80,00	 240,00	 
+ FS-2343	 Peachy Keen	 32	 6,00	 4,00	 80,00	 320,00	 
+ FS-2349	 Tweety Bird	 32	 8,00	 5,00	 80,00	 400,00	 
+ FS-2350	 Golden Retriever	 32	 8,00	 6,00	 80,00	 480,00	 
+ FS-2354	 Something Blue	 32	 8,00	 5,00	 80,00	 400,00	 
+ FS-2355	 Nantucket Blue	 32	 5,00	 4,00	 80,00	 320,00	 
+ FS-2359	 Lime Light	 32	 8,00	 2,00	 80,00	 160,00	 
+ FS-2361	 Leap Frog	 32	 6,00	 2,00	 80,00	 160,00	 
+ FS-2367	 Taupe of the morning	 32	 6,00	 5,00	 80,00	 400,00	 
+ FS-2368	 Old Yeller	 32	 8,00	 2,00	 80,00	 160,00	 
+ FS-2372	 Mocha Fudge	 32	 6,00	 4,00	 80,00	 320,00	 
+ FS-2373	 Key Lime Pie	 32	 6,00	 2,00	 80,00	 160,00	 
+ FS-2375	 Jumpin Jelly	 32	 6,00	 3,00	 80,00	 240,00	 
+ FS-2376	 Bouncin Berry	 32	 9,00	 3,00	 80,00	 240,00	 
+ FS-2377	 Pumpkin Pie	 32	 4,00	 2,00	 80,00	 160,00	 
+ FS-2382	 Tahiti Teal	 32	 12,00	 5,00	 80,00	 400,00	 
+ FS-2383	 Mellow Yellow	 32	 6,00	 5,00	 80,00	 400,00	 
+ FS-2384	 Pinkie Winkie	 32	 7,00	 4,00	 80,00	 320,00	 
+ FS-2385	 Sweet Pea	 32	 5,00	 2,00	 80,00	 160,00	 
+ FS-2386	 Pail Blue	 32	 8,00	 1,00	 80,00	 80,00	 
+ FS-2387	 Pool Party	 32	 24,00	 2,00	 80,00	 160,00	 
+ FS-2388	 Peach Fuzz	 32	 8,00	 6,00	 80,00	 480,00	 
+ FS-2389	 Sammy Salmon	 32	 6,00	 3,00	 80,00	 240,00	 
+ FS-2390	 Orange Crush	 32	 15,00	 2,00	 80,00	 160,00	 
+ FS-2393	 Pretty In Pink - 473 ml	 32	 8,00	 0,00	 80,00	 0,00	 
+ FS-2395	 Tin Man	 32	 12,00	 6,00	 80,00	 480,00	 
+ FS-2398	 Teal We Meet Again	 32	 6,00	 4,00	 80,00	 320,00	 
+ FS-2399	 Blu-Teal-Ful	 32	 6,00	 5,00	 80,00	 400,00	 
+ FS-2400	 Butter Me Up	 32	 12,00	 0,00	 89,30	 0,00	 
+ FS-2405	 Granny Smith	 32	 12,00	 3,00	 89,30	 267,90	 
+ FS-2407	 Blazing Berry	 32	 8,00	 0,00	 89,30	 0,00	 
+ FS-2408	 Bananarama	 32	 4,00	 0,00	 89,30	 0,00	 
+ FS-2409	 Purple Rain	 32	 18,00	 2,00	 89,30	 178,60	 
+ FS-2410	 Blizzard Blue	 32	 8,00	 1,00	 89,30	 89,30	 
+ FS-2411	 Blue Galaxy	 32	 24,00	 4,00	 89,30	 357,20	 
+ FS-2412	 The Patriot	 32	 12,00	 0,00	 89,30	 0,00	 
+ FS-2413	 Pink Passion	 32	 24,00	 6,00	 89,30	 535,80	 
+ FS-2414	 Lizard Lime	 32	 13,00	 1,00	 89,30	 89,30	 
+ FS-2415	 Sand Castle	 32	 6,00	 0,00	 89,30	 0,00	 
+ FS-2416	 Funfetti	 32	 8,00	 6,00	 89,30	 535,80	 
+ FS-2417	 Mango Tango	 32	 9,00	 2,00	 89,30	 178,60	 
+ FS-2418	 Starry Night	 32	 8,00	 1,00	 89,30	 89,30	 
+ FS-2419	 Princess Party	 32	 6,00	 0,00	 89,30	 0,00	 
+ FS-2420	 Paparazzi	 32	 10,00	 1,00	 89,30	 89,30	 
+ GA-1003	 Rund fat med kant - 6 st	 20	 1,00	 0,00	 237,00	 0,00	 
+ GA-1004	 Salladstallrik utan kant - 6 st.	 20	 1,00	 -1,00	 116,00	 -116,00	 
+ GA-1031	 Desserttallrik utan kant - 12 st.	 20	 1,00	 0,00	 151,30	 0,00	 
+ GA-1048	 Äggtallrik - 8 st.	 20	 2,00	 1,00	 152,90	 152,90	 
+ GA-1052	 Muffinstallrik - 12 st.	 20	 1,00	 0,00	 192,60	 0,00	 
+ GA-1073	 Ojämn salladstallrik - 6 st.	 20	 8,00	 0,00	 127,50	 0,00	 
+ GA-1074	 Ojämn Tallrik - 6 st.	 20	 3,00	 0,00	 174,10	 0,00	 
+ GA-1075	 Ojämnt fat - 4 st.	 20	 1,00	 0,00	 160,30	 0,00	 
+ GA-1600	 Mindre assiett med kant - 12 st.	 20	 1,00	 0,00	 179,30	 0,00	 
+ GA-1613	 Assiett med kant - 24 st.	 20	 1,00	 0,00	 348,80	 0,00	 
+ GA-1614	 Salladstallrik utan kant - 24 st.	 20	 2,00	 0,00	 310,60	 0,00	 
+ GA-2001	 Frukostskål 16 cm - 8 st.	 20	 6,00	 0,00	 110,70	 0,00	 
+ GA-2002	 Soppskål 14 cm - 8 st.	 20	 4,00	 3,00	 115,20	 345,60	 
+ GA-2003	 Kryddskål 8 cm - 24 st.	 20	 2,00	 0,00	 249,00	 0,00	 
+ GA-2004	 Skål med fot 16 cm - 8 st.	 20	 2,00	 0,00	 124,30	 0,00	 
+ GA-2005	 Pastaskål 20 cm - 12 st.	 20	 2,00	 1,00	 297,20	 297,20	 
+ GA-2008	 Pasta skål 32 cm - 6 st.	 20	 3,00	 2,00	 293,40	 586,80	 
+ GA-2009	 Stor pastaskål 37 cm - 4 st	 20	 3,00	 1,00	 286,60	 286,60	 
+ GA-2012	 Blomskål 16,5 cm - 12 st.	 20	 2,00	 0,00	 362,20	 0,00	 
+ GA-2020	 Stor hundskål 25 cm - 3 st.	 20	 1,00	 0,00	 122,50	 0,00	 
+ GA-2023	 Skål med hål - 6 st.	 20	 4,00	 3,00	 206,00	 618,00	 
+ GA-2027	 Liten skål 15 cm - 8 st.	 20	 3,00	 1,00	 152,60	 152,60	 
+ GA-2028	 Liten salladsskål 20 cm - 8 st.	 20	 3,00	 0,00	 190,50	 0,00	 
+ GA-2029	 Mellanstorsalladsskål 25 cm - 4 st.	 20	 2,00	 0,00	 134,10	 0,00	 
+ GA-2032	 Hög frukostskål 15 cm - 8 st.	 20	 2,00	 0,00	 124,30	 0,00	 
+ GA-2051	 Hjärtskål - 8 st.	 20	 5,00	 0,00	 166,80	 0,00	 
+ GA-2064	 Drejad skål 15 cm - 8 st.	 20	 1,00	 0,00	 117,70	 0,00	 
+ GA-2069	 Mellanstor skål 20 cm - 6 st	 20	 2,00	 0,00	 206,40	 0,00	 
+ GA-2077	 Liten båtskål - 8 st.	 20	 2,00	 0,00	 208,30	 0,00	 
+ GA-2110	 YingYang skål - 4 st	 20	 1,00	 0,00	 123,50	 0,00	 
+ GA-2130	 Skål med spetskant - 8 st.	 20	 2,00	 0,00	 194,90	 0,00	 
+ GA-2132	 Frukostskål 14 cm - 24 st.	 20	 2,00	 0,00	 438,90	 0,00	 
+ GA-2140	 Prisma skål - 8 st	 20	 5,00	 4,00	 161,30	 645,20	 
+ GA-2143	 Garnskål - 6 st	 20	 3,00	 0,00	 194,20	 0,00	 
+ GA-2145	 Bananblad serveringsskål - 6 st.	 20	 2,00	 0,00	 163,00	 0,00	 
+ GA-2150	 Cottage serveringsskål - 6 st.	 20	 4,00	 1,00	 153,20	 153,20	 
+ GA-2151	 Cottage frukostskål - 24 st.	 20	 4,00	 0,00	 398,60	 0,00	 
+ GA-2152	 Frukostskål 15 cm - 6 st.	 20	 4,00	 0,00	 140,90	 0,00	 
+ GA-3003	 Ovalt fat - 6 st.	 20	 1,00	 0,00	 411,20	 0,00	 
+ GA-3009	 Hjärttallrik - 6 st.	 20	 1,00	 0,00	 207,90	 0,00	 
+ GA-3011	 Julgran tallrik - 12 st.	 20	 2,00	 0,00	 309,80	 0,00	 
+ GA-3022	 Rektangulärt fat - 4 st.	 20	 1,00	 0,00	 228,10	 0,00	 
+ GA-3033	 Äggfat - 6 st.	 20	 1,00	 0,00	 294,10	 0,00	 
+ GA-3044	 Rektangulär bricka - 4 st	 20	 5,00	 2,00	 206,70	 413,40	 
+ GA-3063	 Rektangulärt fat med handgrepp - 6 st	 20	 1,00	 0,00	 344,40	 0,00	 
+ GA-3067	 Rektangulär tallrik - 6 st.	 20	 1,00	 0,00	 209,10	 0,00	 
+ GA-3068	 Rektangulärt fat - 4 st.	 20	 1,00	 0,00	 254,00	 0,00	 
+ GA-3082	 Cottage fat 12,5 cm - 6 st.	 20	 1,00	 0,00	 241,00	 0,00	 
+ GA-3083	 Cottage fat 16,5 cm - 6 st.	 20	 3,00	 0,00	 255,10	 0,00	 
+ GA-3084	 Cottage fat 19 cm - 4 st.	 20	 2,00	 0,00	 187,60	 0,00	 
+ GA-4001	 Espressomugg med fat - 12 st.	 20	 1,00	 0,00	 202,50	 0,00	 
+ GA-4009	 Bred mugg - 8 st.	 20	 4,00	 0,00	 165,90	 0,00	 
+ GA-4013	 Miniskål 9 cm - 24 st.	 20	 3,00	 0,00	 310,60	 0,00	 
+ GA-4027	 Cappuccinomugg med fat - 8 st.	 20	 1,00	 0,00	 264,50	 0,00	 
+ GA-4046	 Extrastor burk med lock - 2 st.	 20	 1,00	 0,00	 199,00	 0,00	 
+ GA-4048	 Sockerskål med lock - 8 st.	 20	 2,00	 0,00	 109,40	 0,00	 
+ GA-4050	 Salt & peppar - 8 st.	 20	 1,00	 0,00	 111,10	 0,00	 
+ GA-4063	 Stor välvd mugg - 8 st.	 20	 6,00	 1,00	 127,60	 127,60	 
+ GA-4075	 Liten välvd mugg - 12 st.	 20	 6,00	 0,00	 164,20	 0,00	 
+ GA-4079	 Mugg med hjärta - 8 st.	 20	 1,00	 0,00	 127,40	 0,00	 
+ GA-4099	 Vin Glas - 8 st.	 20	 1,00	 0,00	 201,90	 0,00	 
+ GA-4103	 Margarita Glas - 8 st.	 20	 1,00	 0,00	 226,90	 0,00	 
+ GA-4104	 Mugg med litet öra - 8 st.	 20	 1,00	 0,00	 115,50	 0,00	 
+ GA-4105	 Love Mom Mugg - 8 st.	 20	 1,00	 0,00	 157,90	 0,00	 
+ GA-4106	 Love Dad Mugg - 8 st.	 20	 1,00	 0,00	 157,90	 0,00	 
+ GA-4130	 Skrynklig plastmugg - 6 st.	 20	 4,00	 0,00	 91,60	 0,00	 
+ GA-4144	 Stapelbar mugg - 8 st.	 20	 2,00	 0,00	 116,00	 0,00	 
+ GA-4146	 Mugg pärlhandtag - 8 st.	 20	 2,00	 -6,00	 127,70	 -766,20	 
+ GA-4154	 Pappersmugg - 12 st. - utan lock	 20	 1,00	 0,00	 180,60	 0,00	 
+ GA-4169	 Mugg - 8 st.	 20	 4,00	 2,00	 103,90	 207,80	 
+ GA-4177	 Jumbo junior mugg - 12 st.	 20	 4,00	 0,00	 198,40	 0,00	 
+ GA-4178	 Rund junior mugg - 12 st.	 20	 8,00	 6,00	 186,80	 1 120,80	 
+ GA-4182	 Drop vas - 8 st	 20	 3,00	 0,00	 96,20	 0,00	 
+ GA-4183	 Pås vas - 8 st	 20	 2,00	 0,00	 96,20	 0,00	 
+ GA-4185	 Burk Mugg - 6 st.	 20	 1,00	 0,00	 105,30	 0,00	 
+ GA-4188	 Pumpa mugg - 6 st.	 20	 1,00	 0,00	 106,70	 0,00	 
+ GA-4195	 Tillbringare 1,5 liter - 2 st.	 20	 2,00	 0,00	 102,40	 0,00	 
+ GA-4196	 Tillbringare ½ liter - 4 st.	 20	 3,00	 0,00	 114,80	 0,00	 
+ GA-4198	 Sjöjungfru mugg - 6 st.	 20	 3,00	 2,00	 120,00	 240,00	 
+ GA-4207	 Camping mugg - 8 st.	 20	 3,00	 2,00	 203,10	 406,20	 
+ GA-4208	 Enhörning mugg - 6 st.	 20	 2,00	 -1,00	 154,10	 -154,10	 
+ GA-4216	 Cottage mugg - 8 st.	 20	 4,00	 2,00	 195,20	 390,40	 
+ GA-4217	 Camping mugg hög - 8 st.	 20	 2,00	 1,00	 195,20	 195,20	 
+ GA-4231	 Prisma mugg - 8 st.	 20	 3,00	 2,00	 151,20	 302,40	 
+ GA-4234	 Sunshine Mugg - 8 st.	 20	 3,00	 0,00	 159,00	 0,00	 
+ GA-4235	 Dinosaurie mugg - 6 st.	 20	 1,00	 0,00	 199,10	 0,00	 
+ GA-4237	 Gropig mugg - 8 st.	 20	 3,00	 1,00	 164,50	 164,50	 
+ GA-4500	 Kaffe mugg - 12 st.	 20	 3,00	 0,00	 119,20	 0,00	 
+ GA-5008	 Rund burk - 6 st.	 20	 1,00	 0,00	 97,30	 0,00	 
+ GA-5016	 Skedskål - 8 st.	 20	 1,00	 0,00	 111,90	 0,00	 
+ GA-5051	 Kakelplatta 11 x 11 cm, 24 st.	 20	 4,00	 1,00	 120,00	 120,00	 
+ GA-5052	 Kakelplatta 15 x 15 cm, 24 st.	 20	 5,00	 2,00	 155,00	 310,00	 
+ GA-5055	 Vas - 4 st	 20	 2,00	 0,00	 224,40	 0,00	 
+ GA-5066	 Kakelplatta ca 20x 20 cm - 24 st.	 20	 1,00	 0,00	 378,40	 0,00	 
+ GA-5080	 Pepparkakshänge - 24 st	 20	 2,00	 0,00	 145,10	 0,00	 
+ GA-5081	 Ängelhänge - 24 st	 20	 2,00	 1,00	 145,10	 145,10	 
+ GA-5121	 Polkagrishänge - 24 st.	 20	 2,00	 0,00	 127,40	 0,00	 
+ GA-5135	 Peace Ord - 6 st	 20	 1,00	 0,00	 134,00	 0,00	 
+ GA-5136	 Pepparkakstallrik - 6 st.	 20	 1,00	 0,00	 153,00	 0,00	 
+ GA-5143	 Ugglalykta - 4 st.	 20	 1,00	 0,00	 170,60	 0,00	 
+ GA-5146	 Love Ord - 6 st	 20	 1,00	 0,00	 97,40	 0,00	 
+ GA-5156	 Hjärta hänge - 24  st	 20	 1,00	 0,00	 149,40	 0,00	 
+ GA-5216	 Mini julgran - 12 st	 20	 4,00	 1,00	 56,50	 56,50	 
+ GA-5228	 Rund skylt 10 cm - 24 st	 20	 1,00	 0,00	 177,52	 0,00	 
+ GA-5230	 Julgran - 12 st.	 20	 4,00	 0,00	 105,20	 0,00	 
+ GA-5244	 Mini haj - 12 st	 20	 1,00	 0,00	 69,70	 0,00	 
+ GA-5282	 Häxhat lykta - 4 st	 20	 1,00	 0,00	 171,80	 0,00	 
+ GA-5291	 Pepparkakshus lykta - 4 st.	 20	 12,00	 8,00	 100,10	 800,80	 
+ GA-5292	 Kakel hänge - 24 st	 20	 2,00	 1,00	 181,10	 181,10	 
+ GA-5298	 Mini pumpa - 12 st	 20	 1,00	 0,00	 60,30	 0,00	 
+ GA-5306	 Val kruka - 8 st	 20	 1,00	 0,00	 98,80	 0,00	 
+ GA-5308	 Mini kruka - 8 st	 20	 1,00	 0,00	 103,90	 0,00	 
+ GA-5309	 Prisma kruka - 8 st	 20	 3,00	 2,00	 103,90	 207,80	 
+ GA-5313	 Lövlykta - 4 st.	 20	 2,00	 1,00	 140,70	 140,70	 
+ GA-5318	 Pumpa - 4 st	 20	 1,00	 0,00	 207,30	 0,00	 
+ GA-5319	 Lövlykta runt - 4 st.	 20	 1,00	 0,00	 148,60	 0,00	 
+ GA-5367	 Julgranshänge jultomte - 24 st.	 20	 2,00	 1,00	 181,10	 181,10	 
+ GA-5372	 Tomtelykta med gran - 4 st.	 20	 2,00	 1,00	 161,50	 161,50	 
+ GA-5390	 Tomtefar och tomtemor - 6 st.	 20	 6,00	 3,00	 207,60	 622,80	 
+ GA-5400	 Liten kruka - Djur - 6 st	 20	 2,00	 -4,00	 138,00	 -552,00	 
+ GA-5401	 Vas Regnboge - 8 st.	 20	 2,00	 0,00	 137,80	 0,00	 
+ GA-5409	 Mumie lykta - 4 st.	 20	 2,00	 0,00	 104,80	 0,00	 
+ GA-5410	 Pumpa lykta - 4 st.	 20	 2,00	 0,00	 104,80	 0,00	 
+ GA-5431	 Stenhög - 6 st	 20	 2,00	 0,00	 183,50	 0,00	 
+ GA-6420	 Svart lock till GA-4154 - 6 st	 20	 7,00	 0,00	 120,00	 0,00	 
+ GA-7026	 Häst - 6 st	 20	 1,00	 0,00	 142,40	 0,00	 
+ GA-7046	 Sjöjungfru - 8 st	 20	 1,00	 0,00	 116,40	 0,00	 
+ GA-7068	 Äppelformad vas - 8 st	 20	 4,00	 0,00	 152,40	 0,00	 
+ GA-7069	 Päronformade vas - 8 st	 20	 6,00	 0,00	 118,20	 0,00	 
+ GA-7070	 Liten julgranskula - 24 st	 20	 2,00	 0,00	 229,20	 0,00	 
+ GA-7071	 Stor julgranskula - 12 st	 20	 4,00	 0,00	 137,90	 0,00	 
+ GA-7074	 Stor hjärtburk - 8 st	 20	 1,00	 0,00	 119,40	 0,00	 
+ GA-7075	 Mellanstor hjärtburk - 8 st	 20	 2,00	 1,00	 96,30	 96,30	 
+ GA-7076	 Liten hjärtburk - 12 st	 20	 2,00	 0,00	 253,70	 0,00	 
+ GA-7110	 Regnbåge sparbössa - 6 st	 20	 1,00	 0,00	 93,40	 0,00	 
+ GA-7174	 Älva på enhörning - 6 st	 20	 1,00	 0,00	 191,80	 0,00	 
+ GA-7178	 Burk med hjärta - 8 st	 20	 1,00	 0,00	 236,70	 0,00	 
+ GA-7218	 Ägg burk - 6 st	 20	 7,00	 2,00	 104,60	 209,20	 
+ GA-7219	 Mjukglass burk - 6 st	 20	 1,00	 0,00	 94,60	 0,00	 
+ GA-7220	 Muffins burk - 6 st	 20	 6,00	 0,00	 92,60	 0,00	 
+ GA-7244	 Katt 11 cm - 8 st	 20	 1,00	 0,00	 87,60	 0,00	 
+ GA-7250	 Söt T-Rex - 8 st	 20	 1,00	 0,00	 118,90	 0,00	 
+ GA-7265	 Sittande Enhörning - 8 st	 20	 2,00	 0,00	 118,90	 0,00	 
+ GA-7267	 Flygplan - 8 st	 20	 1,00	 0,00	 125,20	 0,00	 
+ GA-7297	 Kardinalfågel - 8 st	 20	 3,00	 0,00	 127,70	 0,00	 
+ GA-7311	 Biggy T-Rex Bank - 2 st	 20	 1,00	 0,00	 136,10	 0,00	 
+ GA-7321	 Nyckelpiga - 8 st	 20	 1,00	 0,00	 120,10	 0,00	 
+ GA-7338	 Liten pegasus - 8 st	 20	 1,00	 0,00	 122,80	 0,00	 
+ GA-7347	 Gullig katt sparbössa - 6 st	 20	 1,00	 0,00	 102,30	 0,00	 
+ GA-7351	 Gullig uggla sparbössa - 6 st	 20	 1,00	 0,00	 102,30	 0,00	 
+ GA-7389	 Snögubbe 10 cm - 8 st	 20	 2,00	 0,00	 96,80	 0,00	 
+ GA-7398	 Får - 8 st	 20	 3,00	 0,00	 98,80	 0,00	 
+ GA-7399	 Val - 8 st	 20	 1,00	 0,00	 115,10	 0,00	 
+ GA-7412	 Sugar Skull - 8 st	 20	 2,00	 0,00	 113,80	 0,00	 
+ GA-7425	 Chihuahua - 8 st	 20	 1,00	 0,00	 106,40	 0,00	 
+ GA-7439	 Narval - 8 st	 20	 1,00	 0,00	 112,70	 0,00	 
+ GA-7444	 Flamingo - 8 st	 20	 1,00	 0,00	 106,40	 0,00	 
+ GA-7445	 Lama - 8 st	 20	 1,00	 0,00	 100,10	 0,00	 
+ GA-7447	 Lama sparbössa - 6 st	 20	 1,00	 0,00	 136,50	 0,00	 
+ GA-7454	 Pepparkaksgubbe 27 cm - 8 st.	 20	 4,00	 2,00	 113,80	 227,60	 
+ GA-7464	 Stort ägg - 8 st	 20	 10,00	 9,00	 87,70	 789,30	 
+ GA-7480	 Highland Kossa - 8 st	 20	 1,00	 0,00	 116,00	 0,00	 
+ GA-7493	 Liten Pumpa - 8 st.	 20	 1,00	 0,00	 140,00	 0,00	 
+ GA-7497	 Axolotl - 8 st	 20	 2,00	 1,00	 137,80	 137,80	 
+ GA-8143	 Sköldpadda - 12 st	 20	 1,00	 0,00	 54,30	 0,00	 
+ GA-8161	 Prästkrage - 12 st	 20	 1,00	 0,00	 54,30	 0,00	 
+ GA-8180	 Fjäril - 12 st	 20	 1,00	 0,00	 104,90	 0,00	 
+ GA-8192	 Blomma - 12 st	 20	 1,00	 0,00	 59,90	 0,00	 
+ GA-8195	 Muffin - 12 st	 20	 1,00	 0,00	 53,30	 0,00	 
+ GA-8196	 Rund 3,8 cm - 12 st	 20	 4,00	 0,00	 40,20	 0,00	 
+ GA-8199	 Presentetikett - 12 st	 20	 1,00	 0,00	 59,90	 0,00	 
+ GA-8203	 Glass - 12 st	 20	 1,00	 0,00	 62,10	 0,00	 
+ GA-8209	 Splash - 12 st	 20	 1,00	 0,00	 43,20	 0,00	 
+ GA-8214	 Mini mönster kakel - 12 st	 20	 1,00	 0,00	 52,40	 0,00	 
+ HF-1	 Black	 17	 4,00	 0,00	 66,50	 0,00	 
+ HF-10G	 Klarglasyr blank - 3,8 l	 17	 2,00	 1,00	 311,50	 311,50	 
+ HF-11	 White	 17	 6,00	 0,00	 66,50	 0,00	 
+ HF-127	 China Blue	 17	 2,00	 0,00	 119,00	 0,00	 
+ HF-142	 Chartreuse	 17	 2,00	 0,00	 113,80	 0,00	 
+ HF-161	 Bright Yellow	 17	 2,00	 1,00	 113,80	 113,80	 
+ HF-165	 Scarlet Red	 17	 6,00	 4,00	 126,00	 504,00	 
+ HF-166	 Orangerie	 17	 4,00	 3,00	 119,00	 357,00	 
+ HF-167	 Clementine	 17	 4,00	 2,00	 119,00	 238,00	 
+ HF-56	 Red Gloss	 17	 4,00	 0,00	 119,00	 0,00	 
+ HF-9D	 Klarglasyr blank utan zink - Dry 11 kg	 17	 4,00	 1,00	 890,00	 890,00	 
+ KC-CPHP03	 Form - Rund skål	 81	 4,00	 2,00	 265,00	 530,00	 
+ KC-CPHP07	 Form - Oval skål 15 x 10,8 x 6 cm	 81	 2,00	 1,00	 340,00	 340,00	 
+ KC-CPSG17	 Tryckform - Groda och sköldpadda	 81	 2,00	 1,00	 115,00	 115,00	 
+ KC-CPSG54	 Tryckform - Fötter för keramiska föremål	 81	 4,00	 3,00	 115,00	 345,00	 
+ KC-Dar7	 Darvan #7 avflockningsmedel 473 ml	 75	 1,00	 0,00	 68,50	 0,00	 
+ KC-DM1244	 Kopp - Duncan	 81	 1,00	 0,00	 108,00	 0,00	 
+ KC-DM1646	 2 Koppar - Duncan	 81	 2,00	 1,00	 210,00	 210,00	 
+ KC-DM2004	 Mugg - Duncan	 81	 1,00	 0,00	 162,50	 0,00	 
+ KC-DST-P	 Darvan #811 avflockningsmedel 473 ml	 75	 2,00	 0,00	 81,00	 0,00	 
+ KC-FGL	 Formgips - 5 kg	 75	 15,00	 1,50	 38,80	 58,20	 
+ KC-FGS	 Formgips - 22,7 kg	 75	 6,00	 0,00	 143,00	 0,00	 
+ KC-GR-Daisy105	 Daisy - 26,6 cm	 81	 1,00	 0,00	 34,00	 0,00	 
+ KC-GR-H4	 Hjärta - 10 cm	 81	 3,00	 0,00	 33,40	 0,00	 
+ KC-GR-H4P	 Hexagon - 4 pack	 81	 5,00	 1,00	 216,00	 216,00	 
+ KC-GR-K5	 Kvadrat - 12,5 cm	 81	 2,00	 0,00	 39,00	 0,00	 
+ KC-GR-K8	 Kvadrat - 20 cm	 81	 2,00	 0,00	 54,00	 0,00	 
+ KC-GR-O13-17	 Oval - 33 x 43 cm	 81	 1,00	 0,00	 120,30	 0,00	 
+ KC-GR-O48	 Oval - 20 cm	 81	 2,00	 0,00	 39,00	 0,00	 
+ KC-GR-O510	 Oval - 25 x 12,5 cm	 81	 8,00	 4,00	 51,40	 205,60	 
+ KC-GR-O53-5	 Oval - 12,7 x 9 cm	 81	 3,00	 0,00	 35,00	 0,00	 
+ KC-GR-O57	 Oval - 17 cm	 81	 5,00	 4,00	 46,40	 185,60	 
+ KC-GR-O815	 Oval - 38 cm	 81	 5,00	 3,00	 87,00	 261,00	 
+ KC-GR-P5P	 Skyltar - 5 pack	 81	 2,00	 0,00	 250,00	 0,00	 
+ KC-GR-PL57	 Skylt - 18 cm	 81	 1,00	 0,00	 55,00	 0,00	 
+ KC-GR-Poppy75	 Poppy - 19 cm	 81	 1,00	 0,00	 34,00	 0,00	 
+ KC-GR-Poppy85	 Poppy - 21,5 cm	 81	 1,00	 0,00	 34,00	 0,00	 
+ KC-GR-R14	 Rund - 35,5 cm	 81	 4,00	 2,00	 86,30	 172,60	 
+ KC-GR-R3-5	 Rund - 9 cm	 81	 4,00	 0,00	 33,40	 0,00	 
+ KC-GR-R5	 Rund - 12,7 cm	 81	 4,00	 1,00	 39,00	 39,00	 
+ KC-GR-R5P	 Rund - 5 pack	 81	 11,00	 1,00	 288,00	 288,00	 
+ KC-GR-R8	 Rund - 20,3 cm	 81	 5,00	 0,00	 51,40	 0,00	 
+ KC-GR-RD2-12	 Rund - mjuk - 30,5 cm	 81	 5,00	 0,00	 86,30	 0,00	 
+ KC-GR-RD2-9	 Rund - mjuk - 22,9 cm	 81	 5,00	 4,00	 72,40	 289,60	 
+ KC-GR-RDS	 Rund - Tallriksset	 81	 2,00	 0,00	 299,50	 0,00	 
+ KC-GR-REC510	 Rektangel - 25 cm	 81	 2,00	 0,00	 50,00	 0,00	 
+ KC-GR-REC54	 Rektangel - 12 cm	 81	 2,00	 0,00	 39,00	 0,00	 
+ KC-GR-REC58	 Rektangel - 20 cm	 81	 4,00	 0,00	 48,00	 0,00	 
+ KC-GR-REC83-5	 Rektangel - 20 x 9 cm	 81	 4,00	 2,00	 37,40	 74,80	 
+ KC-GR-RS10	 Rund tunn - 25,4 cm	 81	 5,00	 1,00	 66,90	 66,90	 
+ KC-GR-RS7	 Rund tunn - 17,7 cm	 81	 3,00	 2,00	 49,50	 99,00	 
+ KC-GR-RSDS	 Rund - Tallriksset - tunn	 81	 2,00	 0,00	 299,50	 0,00	 
+ KC-GR-SP	 Spacer - Pull	 81	 6,00	 0,00	 25,00	 0,00	 
+ KC-GR-SRP	 Sfärisk rektangel - 3 pack	 81	 2,00	 0,00	 219,00	 0,00	 
+ KC-GR-SRP3-55	 Sfärisk rektangel - 13 cm	 81	 2,00	 1,00	 36,30	 36,30	 
+ KC-GR-SRP512	 Sfärisk rektangel - 31 cm	 81	 2,00	 0,00	 57,00	 0,00	 
+ KC-GR-SRP815	 Sfärisk rektangel - 38 cm	 81	 2,00	 1,00	 86,70	 86,70	 
+ KC-GR-SS3-5	 Sfärisk kvadrat - 9 cm	 81	 3,00	 1,00	 35,00	 35,00	 
+ KC-GR-ST3-5	 Sfärisk triangel - 9 cm	 81	 3,00	 1,00	 35,00	 35,00	 
+ KC-GR-WA2	 WA2 System	 81	 3,00	 2,00	 250,00	 500,00	 
+ KC-GR-WC1014	 Ugnsform - Wallie - 25,4 x 35,5 cm	 81	 2,00	 1,00	 242,00	 242,00	 
+ KC-GR-WK-4	 Kvadrat - Wallie - 10 cm	 81	 3,00	 1,00	 50,00	 50,00	 
+ KC-GR-WR5P	 Rund - Wallie - 5-pack	 81	 2,00	 0,00	 288,00	 0,00	 
+ KC-GR-WRR-54	 Rektangulär rund - Wallie - 12,7 x 10 cm	 81	 3,00	 0,00	 50,00	 0,00	 
+ KC-GR-WSK-4	 Sfärisk kvadrat - Wallie - 10 cm	 81	 3,00	 2,00	 50,00	 100,00	 
+ KC-GSC2300	 Chamotte ljusbeige - fin #0-0,2 - 1 kg	 76	 3,00	 0,00	 8,90	 0,00	 
+ KC-GSC8300	 Chamotte ljusgrå-beige - medium #0-0,8 - 1 kg	 76	 3,00	 0,00	 8,60	 0,00	 
+ KC-GSL24	 Lergodslera vit utan chamotte - 10 kg	 76	 20,00	 11,00	 42,80	 470,80	 
+ KC-GSL33G	 Gjutlera - lergods - 5,6 liter	 76	 40,00	 1,00	 110,00	 110,00	 
+ KC-GSL86	 Lergodslera vit med chamotte/Raku - 10 kg	 76	 12,00	 0,00	 42,20	 0,00	 
+ KC-GSP1101	 Porslinslera AB - 12,5 kg	 76	 11,00	 0,00	 180,40	 0,00	 
+ KC-GSSG1100	 Stengodslera vit utan chamotte - 10 kg	 76	 14,00	 11,00	 80,40	 884,40	 
+ KC-GSSG1100G	 Gjutlera - stengods - 10 l / 18 kg hink	 76	 11,00	 0,00	 160,00	 0,00	 
+ KC-GSSG1112	 Stengodslera vit med chamotte - 10 kg	 76	 8,00	 4,00	 82,90	 331,60	 
+ KC-GSSG208G	 Gjutlera - stengods - 5,6 liter	 76	 40,00	 4,00	 91,00	 364,00	 
+ KC-GSSG209G	 Gjutlera vit - stengods - 5,6 liter	 76	 12,00	 0,00	 102,00	 0,00	 
+ KC-GSSG241	 Stengodslera vit utan chamotte - 10 kg	 76	 130,00	 26,00	 38,50	 1 001,00	 
+ KC-GSSG254	 Stengodslera vit med chamotte - 10 kg	 76	 415,00	 254,00	 37,90	 9 626,60	 
+ KC-GSSG264	 Stengodslera vit med chamotte - 10 kg	 76	 84,00	 14,00	 37,60	 526,40	 
+ KC-GSSG284	 Stengodslera vit med chamotte - 10 kg	 76	 34,00	 16,00	 37,20	 595,20	 
+ KC-GSSG354	 Stengodslera röd med chamotte - 10 kg	 76	 11,00	 4,00	 38,00	 152,00	 
+ KC-GSSG369	 Stengodslera laxfärgad med chamotte - 10 kg	 76	 6,00	 1,00	 36,00	 36,00	 
+ KC-GSSG371	 Stengodslera grå/svart med chamotte - 10 kg	 76	 106,00	 48,00	 53,10	 2 548,80	 
+ KC-GSSG373	 Stengodslera grå/svart med chamotte - 10 kg	 76	 25,00	 0,00	 52,70	 0,00	 
+ KC-GSSG376	 Stengodslera brun/svart med chamotte - 10 kg	 76	 28,00	 22,00	 49,20	 1 082,40	 
+ KC-GSSG391	 Stengodslera läder-kork med chamotte - 10 kg	 76	 15,00	 5,00	 40,80	 204,00	 
+ KC-GSSG474	 Stengodslera vit med chamotte - 10 kg	 76	 37,00	 31,00	 39,80	 1 233,80	 
+ KC-GSSG480	 Stengodslera vit med chamotte - 10 kg	 76	 31,00	 18,00	 40,50	 729,00	 
+ KC-GSSG551	 Stengodslera rödbrun med chamotte - 10 kg	 76	 41,00	 30,00	 42,80	 1 284,00	 
+ KC-GSSG554	 Stengodslera röd med chamotte - 10 kg	 76	 10,00	 0,00	 0,00	 0,00	 
+ KC-GSSG559	 Stengodslera röd med chamotte - 10 kg	 76	 10,00	 0,00	 0,00	 0,00	 
+ KC-GSSG591	 Stengodslera lila-gul med chamotte - 10 kg	 76	 35,00	 29,00	 47,40	 1 374,60	 
+ KC-GSSG592	 Stengodslera lila-gul med chamotte - 10 kg	 76	 13,00	 0,00	 46,70	 0,00	 
+ KC-GSSG8251	 Stengodslera läder-kork med prickar och chamotte - 10 kg	 76	 18,00	 1,00	 41,20	 41,20	 
+ KC-GSSG930	 Stengodslera med mindre prickar och chamotte - 10 kg	 76	 171,00	 -3,00	 43,70	 -131,10	 
+ KC-GSSG931	 Stengodslera med prickar och chamotte - 10 kg	 76	 96,00	 85,00	 43,70	 3 714,50	 
+ KC-GSSG933	 Stengodslera beige med prickar och chamotte - 10 kg	 76	 105,00	 29,00	 40,80	 1 183,20	 
+ KC-HGM	 Gjutkniv i metall	 82	 4,00	 2,00	 42,00	 84,00	 
+ KC-HH10-0	 Mugg - Hartenfels	 82	 2,00	 1,00	 185,50	 185,50	 
+ KC-HH10-2	 Mugg - Hartenfels	 82	 2,00	 0,00	 112,00	 0,00	 
+ KC-HH10-5	 Mugg - Hartenfels	 82	 1,00	 0,00	 128,00	 0,00	 
+ KC-HH105-A	 Sockerskål med lock - Hartenfels form 105 + 105A	 82	 1,00	 0,00	 195,50	 0,00	 
+ KC-HH10-8	 Mugg - Hartenfels	 82	 15,00	 0,00	 169,50	 0,00	 
+ KC-HH15-5	 Mugg - Hartenfels	 82	 5,00	 2,00	 155,00	 310,00	 
+ KC-HH15-6	 Mugg - Hartenfels	 82	 4,00	 0,00	 155,00	 0,00	 
+ KC-HH200-22	 Traditionell skål 22 cm - Hartenfels	 82	 2,00	 1,00	 174,00	 174,00	 
+ KC-HH202-17	 Skål - Hartenfels	 82	 2,00	 0,00	 180,00	 0,00	 
+ KC-HH461-15	 Ljusskål 15 cm - Hartenfels	 82	 1,00	 0,00	 242,50	 0,00	 
+ KC-HH600	 Två muggar- Hartenfels	 82	 2,00	 0,00	 159,00	 0,00	 
+ KC-HH602-18	 Hundskål - 18 cm	 82	 1,00	 0,00	 242,50	 0,00	 
+ KC-HH602-22	 Hundskål - 22 cm	 82	 1,00	 0,00	 275,50	 0,00	 
+ KC-HH716-15	 Vas - Hartenfels	 82	 2,00	 0,00	 264,50	 0,00	 
+ KC-HHAB491	 Mugg Anna	 82	 6,00	 5,00	 163,50	 817,50	 
+ KC-NG4	 Natur-gummiband 4	 81	 1,00	 0,00	 35,00	 0,00	 
+ KC-NG9	 Natur-gummiband 9	 81	 1,00	 0,00	 102,50	 0,00	 
+ KC-NS-4	 Vit stengods gjutlera - Dover	 75	 6,00	 0,00	 101,20	 0,00	 
+ KC-WC-379	 Stengodslera vit USA - B-Mix  - 22,7 kg	 75	 6,00	 0,00	 186,00	 0,00	 
+ KC-WC-391	 Stengodslera brun/svart B-3 USA - 22,7 kg	 75	 4,00	 0,00	 226,00	 0,00	 
+ KC-WC-402	 Stengodslera Half and Half - Laguna 22,5 kg	 75	 6,00	 3,00	 210,00	 630,00	 
+ KC-WC-403	 Stengodslera Speckled Buff - Laguna 22,5 kg	 75	 3,00	 0,00	 179,50	 0,00	 
+ KC-WC-420	 Stengodslera röd -  USA - 22,7 kg	 75	 2,00	 0,00	 200,50	 0,00	 
+ KC-WC-608	 Stengodslera beige med prickar #60 -  USA - 22,7 kg	 75	 4,00	 0,00	 185,50	 0,00	 
+ KC-WC-609	 Stengodslera vit USA - 22,7 kg	 75	 5,00	 0,00	 188,00	 0,00	 
+ KC-WC-611	 Stengodslera brun med prickar #70 -  USA - 22,7 kg	 75	 2,00	 0,00	 187,00	 0,00	 
+ KM1018	 KM1018 - 118 l	 70	 1,00	 0,00	 26 454,00	 0,00	 
+ KT-ABF	 Bisque Fix  (frostkänslig) - 1280°C	 73	 12,00	 3,00	 153,80	 461,40	 
+ KT-AC222	 Detaljflaska medium	 73	 6,00	 2,00	 21,50	 43,00	 
+ KT-ACB	 Canvas Board	 73	 10,00	 4,00	 105,00	 420,00	 
+ KT-AGS	 Gum Solution	 73	 8,00	 5,00	 50,00	 250,00	 
+ KT-ARL	 Rubber Latex  (frostkänslig)	 73	 2,00	 1,00	 127,00	 127,00	 
+ KT-ASM	 Sculpt a Mold - 1,36 kg	 73	 24,00	 0,00	 47,20	 0,00	 
+ KT-AWR	 Amaco Wax Resist  (frostkänslig)	 73	 8,00	 4,00	 125,00	 500,00	 
+ KT-BERC09-1	 Slingverktyg - B1	 73	 12,00	 9,00	 14,20	 127,80	 
+ KT-BERC09-2	 Slingverktyg - B2	 73	 12,00	 6,00	 13,80	 82,80	 
+ KT-BERC27-15	 Drejsken i trä 13 x 6 cm	 73	 3,00	 0,00	 12,90	 0,00	 
+ KT-BERC27-17	 Skulptur paddel i trä	 73	 2,00	 1,00	 35,90	 35,90	 
+ KT-BERC38-A	 Handtagsverktyg - A	 73	 24,00	 4,00	 8,00	 32,00	 
+ KT-BERC38-B	 Handtagsverktyg - B	 73	 24,00	 8,00	 8,00	 64,00	 
+ KT-BERC38-C	 Handtagsverktyg - C	 73	 24,00	 4,00	 8,00	 32,00	 
+ KT-BERC38-D	 Handtagsverktyg - D	 73	 24,00	 10,00	 8,00	 80,00	 
+ KT-BERC38-E	 Handtagsverktyg - E	 73	 24,00	 10,00	 8,00	 80,00	 
+ KT-BERC38-F	 Handtagsverktyg - F	 73	 24,00	 9,00	 8,00	 72,00	 
+ KT-BERC50-61	 Rengöringsverktyg stål	 73	 6,00	 3,00	 13,30	 39,90	 
+ KT-BERC50-65	 Lerskärare - bambu	 73	 6,00	 2,00	 13,30	 26,60	 
+ KT-BERC50-67s	 Lerskärare - 42 cm	 73	 37,00	 15,00	 9,80	 147,00	 
+ KT-BERC50-75	 Hård putskniv - dubbelt	 73	 6,00	 2,00	 19,60	 39,20	 
+ KT-BERC62-1	 Avdrejningsjärn 1	 73	 12,00	 0,00	 17,30	 0,00	 
+ KT-BERC62-2	 Avdrejningsjärn 2	 73	 12,00	 3,00	 16,30	 48,90	 
+ KT-BERC62-3	 Avdrejningsjärn 3	 73	 12,00	 6,00	 16,80	 100,80	 
+ KT-BERC62-4	 Avdrejningsjärn 4	 73	 12,00	 7,00	 16,30	 114,10	 
+ KT-BERC62-5	 Avdrejningsjärn 5	 73	 8,00	 3,00	 15,40	 46,20	 
+ KT-BERC62-6	 Avdrejningsjärn 6	 73	 12,00	 5,00	 15,90	 79,50	 
+ KT-BERC69-1	 Krumcirkel - 32 cm	 73	 2,00	 1,00	 59,70	 59,70	 
+ KT-BERC69-3	 Krumcirkel - 22 cm	 73	 9,00	 6,00	 46,70	 280,20	 
+ KT-BERP-18-3S	 Drejsken av gummi - 9 cm x 5,5 cm	 73	 12,00	 4,00	 6,50	 26,00	 
+ KT-BERP22-2	 Svamp på pinne - 5 cm bred	 73	 8,00	 4,00	 3,70	 14,80	 
+ KT-BERP26-5	 Drejsken 10 x 5 cm - tandad	 73	 24,00	 5,00	 2,40	 12,00	 
+ KT-BERP26-6	 Drejsken 8,5 x 2,5-5 cm	 73	 24,00	 11,00	 2,30	 25,30	 
+ KT-BERT14	 Drejsken i trä 12 x 5 cm.	 73	 8,00	 4,00	 14,20	 56,80	 
+ KT-BERT15	 Drejsken i trä 10,5 x 4 cm.	 73	 6,00	 5,00	 14,20	 71,00	 
+ KT-BERT31	 Skärslinga 31	 73	 24,00	 20,00	 17,30	 346,00	 
+ KT-BERT32	 Skärslinga 32	 73	 24,00	 9,00	 17,30	 155,70	 
+ KT-BERT33	 Skärslinga 33	 73	 24,00	 12,00	 17,30	 207,60	 
+ KT-BERT34	 Skärslinga 34	 73	 24,00	 21,00	 16,30	 342,30	 
+ KT-BERT35	 Skärslinga 35	 73	 24,00	 9,00	 16,30	 146,70	 
+ KT-BERT36	 Skärslinga 36	 73	 24,00	 10,00	 16,30	 163,00	 
+ KT-BERT37	 Skärslinga 37	 73	 24,00	 8,00	 16,30	 130,40	 
+ KT-BP	 Rengöringsnål Detaljmålningsflaska - 10 st	 73	 6,00	 2,00	 2,00	 4,00	 
+ KT-BTCLR01	 Clay Roller - Kavel	 73	 8,00	 4,00	 23,10	 92,40	 
+ KT-BTDE07	 Inläggnings disk - kvadrat	 73	 2,00	 1,00	 17,50	 17,50	 
+ KT-BTDE18	 Inläggnings disk - blomma	 73	 2,00	 1,00	 17,50	 17,50	 
+ KT-BTK001	 Rengöringsverktyg Kniv	 73	 1,00	 0,00	 49,00	 0,00	 
+ KT-BTM004	 Rengöringsverktyg Kanna 4	 73	 4,00	 0,00	 63,00	 0,00	 
+ KT-BTM006	 Rengöringsverktyg kniv	 73	 3,00	 1,00	 49,00	 49,00	 
+ KT-BTM011	 Chatter verktyg	 73	 2,00	 0,00	 105,00	 0,00	 
+ KT-BTR018	 Drejsken i bambu	 73	 1,00	 0,00	 42,00	 0,00	 
+ KT-BTR019	 Drejsken i bambu	 73	 3,00	 2,00	 49,00	 98,00	 
+ KT-BTR100	 Drejsken i bambu	 73	 1,00	 0,00	 42,00	 0,00	 
+ KT-BTS002	 Drejpinne i bambu - 42 cm	 73	 1,00	 0,00	 98,00	 0,00	 
+ KT-BTYM009	 Lerskärare - Yumi i stål M009	 73	 2,00	 0,00	 56,00	 0,00	 
+ KT-CKCSI12	 Kavalett i trä - 30 cm	 73	 3,00	 2,00	 268,80	 537,60	 
+ KT-CKFLA	 FineLine Applicator - 2 st	 73	 3,00	 0,00	 49,80	 0,00	 
+ KT-CKPCS16	 Kakform - Kvadrat	 73	 3,00	 0,00	 49,80	 0,00	 
+ KT-CKTSVSM	 Glasyrsil - mellan - diam. 12 och 8,5 cm	 73	 2,00	 1,00	 168,80	 168,80	 
+ KT-CKWON	 Wax on - 237 ml (frostkänslig)	 73	 6,00	 1,00	 122,80	 122,80	 
+ KT-DEB-RS12	 Svamp på pinne rund - 12x65 mm	 65	 6,00	 0,00	 16,32	 0,00	 
+ KT-DEB-RS16	 Svamp på pinne rund - 16x65 mm	 65	 15,00	 0,00	 7,23	 0,00	 
+ KT-DT	 Dipptång C64	 73	 25,00	 15,00	 34,50	 517,50	 
+ KT-GG10	 Giffin Grip - standard	 73	 5,00	 3,00	 1 412,20	 4 236,60	 
+ KT-GGFSIII-3	 Flex Sliders - 3 pack	 73	 2,00	 1,00	 199,80	 199,80	 
+ KT-GU	 Glasyrunderlägg - Paint safe	 73	 8,00	 2,00	 98,00	 196,00	 
+ KT-HFW14	 Högtemperatur tråd 1,63 mm - 3 m	 73	 2,00	 0,00	 139,50	 0,00	 
+ KT-HM	 Aztec Hi Fire 1280°C - 59 ml	 73	 3,00	 1,00	 74,80	 74,80	 
+ KT-K8RSS	 Slingset - 20 cm	 73	 4,00	 0,00	 174,90	 0,00	 
+ KT-KFRSO	 Drejsken av gummi stor- mjuk	 73	 3,00	 0,00	 44,34	 0,00	 
+ KT-KHTW17	 Högtemperatur tråd 1,14 mm - 3 m	 73	 6,00	 0,00	 49,50	 0,00	 
+ KT-KLT6	 Slingverktyg 6	 73	 3,00	 0,00	 32,10	 0,00	 
+ KT-KPTM60	 Skulpteringsverktyg - Slinga M60	 73	 2,00	 0,00	 59,10	 0,00	 
+ KT-KSPR	 Syntetsvamp Kemper - 1 st.	 73	 5,00	 0,00	 5,70	 0,00	 
+ KT-LM3017	 Laguna&#x27;s Wax Resist  (frostkänslig)	 73	 12,00	 0,00	 63,60	 0,00	 
+ KT-LSOUPP	 Lee&#x27;s Liquid Soup - frostkänsligt	 73	 3,00	 0,00	 79,50	 0,00	 
+ KT-LTM48530	 Clay Roller - Kavel - 58 cm	 73	 1,00	 0,00	 800,00	 0,00	 
+ KT-LTM600	 Underglasyrpenna - Black	 73	 4,00	 2,00	 109,50	 219,00	 
+ KT-LTM601	 Underglasyrpenna - White	 73	 4,00	 1,00	 109,50	 109,50	 
+ KT-LTM611	 Underglasyrpenna - Warm Grey	 73	 1,00	 0,00	 109,50	 0,00	 
+ KT-LTM615	 Underglasyrpenna - Bluegreen	 73	 1,00	 0,00	 109,50	 0,00	 
+ KT-MAC310	 Screentryck Medium 2,64 oz.	 73	 4,00	 -1,00	 15,94	 -15,94	 
+ KT-MC001	 Maskeringstejp 6,35 mm	 73	 9,00	 3,00	 19,50	 58,50	 
+ KT-MC002	 Maskeringstejp 12,7 mm	 73	 4,00	 0,00	 25,50	 0,00	 
+ KT-MST	 Keramikställ mässing hopfällbar	 73	 6,00	 2,00	 15,00	 30,00	 
+ KT-MX10133-ST01	 Stylus verktyg ca 1,5 och 1,0 mm	 73	 2,00	 1,00	 43,80	 43,80	 
+ KT-MX10135-ST03	 Stylus verktyg ca 2,5  och 3 mm	 73	 2,00	 1,00	 43,80	 43,80	 
+ KT-MX10184	 Skumdyna - Xiem	 73	 4,00	 0,00	 59,80	 0,00	 
+ KT-MX10187	 Svamp - Xiem	 73	 12,00	 0,00	 26,30	 0,00	 
+ KT-MX10194	 Drejsken mjuk i silikon no.2 - orange 4 x 7 cm.	 73	 5,00	 0,00	 29,80	 0,00	 
+ KT-MX10198	 Drejsken mjuk i silikon no.6 - orange 12,5 x 4 cm	 73	 4,00	 1,00	 0,00	 0,00	 
+ KT-MX10206	 Drejsken fast i silikon no.6 - blå  12,5 x 4 cm	 73	 2,00	 1,00	 29,80	 29,80	 
+ KT-MX10207	 Drejsken fast i silikon no.7 - blå 5 x 15 cm	 73	 2,00	 0,00	 34,80	 0,00	 
+ KT-MX10280	 Lerskärare - 28 cm	 73	 8,00	 5,00	 37,50	 187,50	 
+ KT-MX10333	 Fil for porslin och stengods - fin - 2 pack	 73	 3,00	 2,00	 11,30	 22,60	 
+ KT-MX10344	 Räffelverktyg	 73	 14,00	 7,00	 98,80	 691,60	 
+ KT-MX10349-ST27	 Stylus verktyg ca 0,6 och 0,8 cm	 73	 5,00	 4,00	 49,80	 199,20	 
+ KT-MX10351	 Putsverktyg fot - Medium	 73	 7,00	 2,00	 49,80	 99,60	 
+ KT-MX10415	 Putsverktyg Droppe - titan - liten	 73	 3,00	 1,00	 59,80	 59,80	 
+ KT-MX10416	 Putsverktyg Droppe - titan - Mellan	 73	 9,00	 8,00	 72,50	 580,00	 
+ KT-MX10417	 Putsverktyg Droppe - titan - Stor	 73	 2,00	 1,00	 79,80	 79,80	 
+ KT-MX10419	 Multi Funktion verktyg - Mellan	 73	 5,00	 0,00	 67,50	 0,00	 
+ KT-MX10421	 Putsverktyg triangel - titan - liten	 73	 3,00	 0,00	 59,80	 0,00	 
+ KT-MX10422	 Putsverktyg triangel - titan - Mellan	 73	 3,00	 1,00	 72,50	 72,50	 
+ KT-MX10423	 Putsverktyg Oval - titan - liten	 73	 3,00	 1,00	 59,80	 59,80	 
+ KT-MX10424	 Putsverktyg Oval - titan - Mellan	 73	 3,00	 1,00	 67,50	 67,50	 
+ KT-MX10433	 Krokverktyg PSR09	 73	 4,00	 1,00	 59,80	 59,80	 
+ KT-MX10437	 Slingverktyg - Set - S	 73	 2,00	 0,00	 109,80	 0,00	 
+ KT-MX10438	 Slingverktyg - Set - M	 73	 2,00	 1,00	 109,80	 109,80	 
+ KT-MX10446	 Svamp - Xiem - 2-pack	 73	 12,00	 1,00	 31,30	 31,30	 
+ KT-MX10447	 Drejsken extra mjuk i silikon - grön S	 73	 4,00	 1,00	 29,80	 29,80	 
+ KT-MX10468	 Putsverktyg lasso - titan - liten	 73	 3,00	 2,00	 59,80	 119,60	 
+ KT-MX10470	 Putsverktyg lasso - titan - Stor	 73	 4,00	 1,00	 74,80	 74,80	 
+ KT-MX10489	 Fot skärare - Xiem	 73	 6,00	 3,00	 32,50	 97,50	 
+ KT-MXCRH	 Handtag - Tungsten verktyg	 73	 3,00	 0,00	 64,80	 0,00	 
+ KT-NACP5	 Keramikställ plast 13 cm	 73	 1,00	 0,00	 9,00	 0,00	 
+ KT-NAOP	 Oval Fil brun-vit - 7,6 x 5 cm	 73	 5,00	 3,00	 19,50	 58,50	 
+ KT-NAOUH	 Metallkrokar brännbara - 50 st.	 73	 24,00	 20,00	 69,50	 1 390,00	 
+ KT-NAPN	 Liten Nötknäckare - 6 st - porslin	 73	 3,00	 0,00	 37,20	 0,00	 
+ KT-NASV	 Syntetsvamp - 1 st.	 73	 25,00	 3,00	 4,90	 14,70	 
+ KT-ORK170	 Underglasyrpenna - brun	 73	 12,00	 4,00	 20,80	 83,20	 
+ KT-PCSR	 Lerstansar Rund - 5 st.	 73	 6,00	 1,00	 100,74	 100,74	 
+ KT-PL1	 Pinl. Large 200 st. klar	 73	 19,00	 14,00	 16,50	 231,00	 
+ KT-PS04	 Putskniv mjuk	 73	 2,00	 1,00	 22,50	 22,50	 
+ KT-R2059	 Syntetisk oval putssvamp	 73	 14,00	 3,00	 18,90	 56,70	 
+ KT-R2099	 Syntetisk Sjösvamp	 73	 4,00	 0,00	 13,50	 0,00	 
+ KT-R2120	 Syntetsvampar - 3 st.	 73	 33,00	 6,00	 7,50	 45,00	 
+ KT-R2123	 Syntetisk svamp	 73	 6,00	 5,00	 15,00	 75,00	 
+ KT-RD10	 Spets-putsverktyg	 73	 8,00	 7,00	 6,90	 48,30	 
+ KT-RD113	 Stöpplare 6 st	 73	 6,00	 -1,00	 15,00	 -15,00	 
+ KT-RD2	 Stort Putsverktyg	 73	 5,00	 3,00	 6,90	 20,70	 
+ KT-RD4	 Slingverktyg	 73	 8,00	 0,00	 6,90	 0,00	 
+ KT-RD4s	 Scratch n dust	 73	 6,00	 3,00	 10,20	 30,60	 
+ KT-RD90	 Stiliseringsverktyg - Set	 73	 2,00	 1,00	 16,50	 16,50	 
+ KT-RSETPOT14	 Slingverktygset maxi	 73	 3,00	 2,00	 42,00	 84,00	 
+ KT-RSETPOT18	 Krumcirkelset	 73	 3,00	 2,00	 82,50	 165,00	 
+ KT-RSETPOT8	 Drejsken set i trä	 73	 5,00	 0,00	 33,00	 0,00	 
+ KT-SKbat-S	 Plasti-bat  - Skruvar	 73	 4,00	 2,00	 42,00	 84,00	 
+ KT-SS	 Slipsten för glasyr SMS	 73	 15,00	 6,00	 27,54	 165,24	 
+ KT-TCS115	 Kavalett i stål - stor -SCS02	 73	 4,00	 0,00	 349,50	 0,00	 
+ KT-TCS123	 Kavalett i stål -SCS01	 73	 4,00	 0,00	 249,50	 0,00	 
+ KT-TCSCSI12	 Kavalett i trä - 30 cm	 73	 2,00	 1,00	 349,50	 349,50	 
+ KT-TSC40404	 Natur sjö svamp 12,7x15 cm	 73	 12,00	 10,00	 39,50	 395,00	 
+ KT-UGC209	 Underglasyrkritor - set 209	 73	 1,00	 0,00	 202,50	 0,00	 
+ KT-UGS108	 Underglasyr - Smugs - set 108	 73	 1,00	 0,00	 194,00	 0,00	 
+ KT-UGS112	 Underglasyr - Smugs - set 112	 73	 2,00	 0,00	 194,00	 0,00	 
+ KT-VM	 Viscositetsmätare - 6401	 73	 2,00	 0,00	 120,00	 0,00	 
+ L788-1-1-2	 Oriental hake pensel #1 1/2 - 3,8 cm	 50	 8,00	 1,00	 7,50	 7,50	 
+ L788-1-2	 Oriental hake pensel #1/2 - 1,3 cm	 50	 15,00	 7,00	 3,60	 25,20	 
+ L788-2	 Oriental hake pensel #2 - 4,9 cm	 50	 17,00	 12,00	 9,60	 115,20	 
+ L788-2-1-2	 Oriental hake pensel #2 1/2 - 6,3 cm	 50	 5,00	 3,00	 12,00	 36,00	 
+ L790-10	 Oriental hake pensel #10	 50	 10,00	 7,00	 20,10	 140,70	 
+ L790-6	 Oriental hake pensel #6	 50	 14,00	 9,00	 12,60	 113,40	 
+ LBAM-1	 Bambu set #1 med 4 st penslar	 50	 3,00	 1,00	 31,50	 31,50	 
+ LB-S1	 Bambu pensel stl. 1	 50	 5,00	 4,00	 7,50	 30,00	 
+ LB-S3	 Bambu pensel stl. 3	 50	 5,00	 2,00	 9,60	 19,20	 
+ LG-10	 Clear Transparent	 16	 4,00	 1,00	 80,50	 80,50	 
+ LG-14	 Gray	 16	 2,00	 0,00	 80,50	 0,00	 
+ LG-24	 Light Blue	 16	 1,00	 0,00	 80,50	 0,00	 
+ LG-25	 Turquoise Green	 16	 2,00	 1,00	 80,50	 80,50	 
+ LG-30	 Chocolate Brown	 16	 1,00	 0,00	 80,50	 0,00	 
+ LG-51	 Lilac	 16	 2,00	 0,00	 110,30	 0,00	 
+ LG-54	 Mulberry Red	 16	 1,00	 0,00	 110,30	 0,00	 
+ LG-60	 Dark Yellow	 16	 2,00	 0,00	 80,50	 0,00	 
+ LG-68	 Vivid Orange	 16	 1,00	 0,00	 110,30	 0,00	 
+ LUG-21	 Medium Blue	 16	 4,00	 2,00	 121,50	 243,00	 
+ LUG-25	 Turquoise	 16	 4,00	 2,00	 121,50	 243,00	 
+ LUG-30	 Light Brown	 16	 1,00	 0,00	 121,50	 0,00	 
+ LUG-41	 Warm Green	 16	 4,00	 3,00	 121,50	 364,50	 
+ LUG-50	 Pink	 16	 3,00	 0,00	 121,50	 0,00	 
+ LUG-52	 Peach	 16	 2,00	 0,00	 121,50	 0,00	 
+ LUG-56	 Maroon	 16	 2,00	 1,00	 121,50	 121,50	 
+ MAD-BG	 Fjärilar - Guld	 66	 5,00	 4,00	 60,00	 240,00	 
+ MAD-DG2GT	 Trollslända - Guld/Turkos	 66	 2,00	 0,00	 60,00	 0,00	 
+ MAD-FJSG	 Små fjädrar - Guld	 66	 6,00	 5,00	 60,00	 300,00	 
+ MAD-JKG	 Juldekorationer - Guld	 66	 2,00	 1,00	 60,00	 60,00	 
+ MAD-PC2GS	 Kottar - Guld/Svart	 66	 1,00	 0,00	 60,00	 0,00	 
+ MAD-QBG	 Drottning Bi - Guld	 66	 4,00	 3,00	 60,00	 180,00	 
+ MAD-SEBG	 Segelbåt - Guld	 66	 2,00	 1,00	 60,00	 60,00	 
+ MAD-SG	 Snöflingor - Guld	 66	 2,00	 0,00	 60,00	 0,00	 
+ MAD-SP	 Snöflingor - Platina	 66	 2,00	 0,00	 60,00	 0,00	 
+ MB-042	 Tomte Hurra - 6 st.	 22	 4,00	 2,00	 300,00	 600,00	 
+ MB-1043	 Pumpa - 6 st	 22	 1,00	 0,00	 168,00	 0,00	 
+ MB-105	 Ris skål - 12 st	 22	 3,00	 0,00	 240,00	 0,00	 
+ MB-1114	 Lantlig skål 21 cm - 6 st	 22	 12,00	 0,00	 180,00	 0,00	 
+ MB-1115	 Lantlig salladstallrik - 6 st.	 22	 12,00	 8,00	 156,00	 1 248,00	 
+ MB-1116	 Lantlig Tallrik - 6 st.	 22	 12,00	 0,00	 186,00	 0,00	 
+ MB-1119	 Liten kanin - 6 st	 22	 8,00	 2,00	 162,00	 324,00	 
+ MB-1364	 Sköldpaddekruka - 3 st	 22	 1,00	 0,00	 125,10	 0,00	 
+ MB-1371	 Dansande tekanna - 4 st	 22	 2,00	 1,00	 230,00	 230,00	 
+ MB-1403	 Oval tillbringare - 2 st.	 22	 1,00	 0,00	 104,00	 0,00	 
+ MB-1455	 Mugg - 6 st	 22	 18,00	 9,00	 150,00	 1 350,00	 
+ MB-1459	 Elefant - 2 st	 22	 1,00	 0,00	 125,00	 0,00	 
+ MB-1486	 Skrynkligt fat - 6 st	 22	 1,00	 0,00	 185,40	 0,00	 
+ MB-1503	 Kaktus vas - 4 st	 22	 2,00	 1,00	 246,00	 246,00	 
+ MB-1504	 Kaktus Kruka - 6 st	 22	 3,00	 0,00	 183,00	 0,00	 
+ MB-1570	 Tomte Lindy  - 4 st.	 22	 2,00	 1,00	 218,00	 218,00	 
+ MB-1577	 Hamrad mugg - 6 st.	 22	 2,00	 0,00	 156,00	 0,00	 
+ MB-1587	 Snack Tallrik stor - 6 st.	 22	 2,00	 1,00	 300,00	 300,00	 
+ MB-1598	 Hare med mössa - 6 st	 22	 2,00	 1,00	 330,00	 330,00	 
+ MB-1610	 Blomvas - 6 st	 22	 2,00	 0,00	 168,00	 0,00	 
+ MB-1611	 Blomvas - 6 st	 22	 2,00	 0,00	 180,00	 0,00	 
+ MB-1613	 Mönstrad skål 16 cm - 6 st	 22	 2,00	 0,00	 189,00	 0,00	 
+ MB-1614	 Mosaik skål 16 cm - 6 st	 22	 2,00	 0,00	 189,00	 0,00	 
+ MB-1616	 Mönstrad mugg - 6 st.	 22	 2,00	 0,00	 153,00	 0,00	 
+ MM-102	 Copper Metallic	 36	 50,00	 1,00	 16,70	 16,70	 
+ MM-102-8	 Copper Metallic	 36	 32,00	 1,00	 58,70	 58,70	 
+ MM-103	 Dark Bronze Metallic	 36	 50,00	 12,00	 16,70	 200,40	 
+ MM-103-8	 Dark Bronze Metallic	 36	 50,00	 24,00	 58,70	 1 408,80	 
+ MM-105	 Gold Metallic	 36	 20,00	 17,00	 16,70	 283,90	 
+ MM-202	 Green Patina	 36	 35,00	 12,00	 14,60	 175,20	 
+ MM-305	 Rapid Rust	 36	 21,00	 5,00	 14,60	 73,00	 
+ MM-305-8	 Rapid Rust	 36	 14,00	 6,00	 53,40	 320,40	 
+ MM-kit	 Magic Metallic Kit	 36	 4,00	 1,00	 103,10	 103,10	 
+ MS-15	 Ochre	 39	 12,00	 2,00	 75,00	 150,00	 
+ MS-17	 Golden Green	 39	 12,00	 0,00	 75,00	 0,00	 
+ MS-18	 Robins Egg	 39	 10,00	 0,00	 75,00	 0,00	 
+ MS-19	 Cream	 39	 2,00	 0,00	 75,00	 0,00	 
+ MS-20	 Royal Blue	 39	 6,00	 5,00	 75,00	 375,00	 
+ MS-203	 Ghana Black	 39	 2,00	 0,00	 125,00	 0,00	 
+ MS-220	 Nebula Blue	 39	 8,00	 0,00	 85,00	 0,00	 
+ MS-222	 Sang De Boeuf	 39	 1,00	 0,00	 85,00	 0,00	 
+ MS-223	 Desert Sunset	 39	 4,00	 2,00	 85,00	 170,00	 
+ MS-224	 Mint Spice	 39	 3,00	 0,00	 85,00	 0,00	 
+ MS-228	 Sea Gold	 39	 12,00	 1,00	 85,00	 85,00	 
+ MS-229	 Sea Grass	 39	 18,00	 2,00	 85,00	 170,00	 
+ MS-230	 Desert Sand	 39	 2,00	 0,00	 85,00	 0,00	 
+ MS-251	 Yellow Ore	 39	 8,00	 5,00	 85,00	 425,00	 
+ MS-255	 Aqua Blue	 39	 3,00	 0,00	 85,00	 0,00	 
+ MS-257	 Chocolate	 39	 3,00	 0,00	 85,00	 0,00	 
+ MS-258	 Antique Turquoise	 39	 12,00	 6,00	 85,00	 510,00	 
+ MS-259	 Old Copper	 39	 4,00	 2,00	 85,00	 170,00	 
+ MS-26	 Snow Flake	 39	 24,00	 15,00	 75,00	 1 125,00	 
+ MS-260	 Charcoal	 39	 18,00	 0,00	 85,00	 0,00	 
+ MS-264	 Taupe	 39	 4,00	 2,00	 85,00	 170,00	 
+ MS-265	 Tangerine Ice	 39	 3,00	 0,00	 85,00	 0,00	 
+ MS-266	 Ruby Dust	 39	 3,00	 0,00	 85,00	 0,00	 
+ MS-27	 Peacock	 39	 12,00	 4,00	 75,00	 300,00	 
+ MS-29	 Clear Bright - utan zink	 39	 6,00	 0,00	 75,00	 0,00	 
+ MS-3	 Wheat	 39	 5,00	 1,00	 75,00	 75,00	 
+ MS-301	 White	 39	 24,00	 15,00	 90,00	 1 350,00	 
+ MS-302	 Turquoise	 39	 3,00	 0,00	 90,00	 0,00	 
+ MS-303	 Royal Blue	 39	 8,00	 0,00	 90,00	 0,00	 
+ MS-304	 Navy Blue	 39	 7,00	 6,00	 90,00	 540,00	 
+ MS-306	 Pink	 39	 12,00	 7,00	 90,00	 630,00	 
+ MS-313	 Green	 39	 8,00	 0,00	 90,00	 0,00	 
+ MS-33	 Bamboo Ash Matt	 39	 12,00	 11,00	 85,00	 935,00	 
+ MS-35	 Sage Matt	 39	 10,00	 0,00	 85,00	 0,00	 
+ MS-36	 Blue Frost Matte	 39	 8,00	 5,00	 85,00	 425,00	 
+ MS-37	 Turkish Amber	 39	 6,00	 0,00	 85,00	 0,00	 
+ MS-39	 Desert Yellow	 39	 2,00	 0,00	 85,00	 0,00	 
+ MS-4	 Forest Green	 39	 12,00	 0,00	 85,00	 0,00	 
+ MS-43	 Amethyst Matte	 39	 2,00	 0,00	 85,00	 0,00	 
+ MS-46	 Agate	 39	 10,00	 2,00	 85,00	 170,00	 
+ MS-47	 Castile Blue	 39	 15,00	 7,00	 85,00	 595,00	 
+ MS-49	 Oasis Blue	 39	 1,00	 0,00	 85,00	 0,00	 
+ MS-50	 Dutch Sprinkle	 39	 2,00	 1,00	 85,00	 85,00	 
+ MS-51	 Pippin Green	 39	 5,00	 2,00	 85,00	 170,00	 
+ MS-54	 Emeraude	 39	 6,00	 0,00	 85,00	 0,00	 
+ MS-55	 Antique Blue	 39	 12,00	 0,00	 85,00	 0,00	 
+ MS-56	 Hyacinth	 39	 8,00	 7,00	 85,00	 595,00	 
+ MS-57	 Cappuccino	 39	 7,00	 3,00	 85,00	 255,00	 
+ MS-60	 Walnut Spice	 39	 4,00	 0,00	 85,00	 0,00	 
+ MS-62	 Oatmeal	 39	 4,00	 0,00	 85,00	 0,00	 
+ MS-63	 White Gloss	 39	 12,00	 5,00	 85,00	 425,00	 
+ MS-64	 Sunflower Yellow	 39	 6,00	 5,00	 85,00	 425,00	 
+ MS-65	 Rusty Orange	 39	 3,00	 1,00	 85,00	 85,00	 
+ MS-66	 Plum	 39	 3,00	 1,00	 85,00	 85,00	 
+ MS-67	 Semi-Clear Matte	 39	 6,00	 3,00	 85,00	 255,00	 
+ MS-68	 Almond	 39	 4,00	 0,00	 85,00	 0,00	 
+ MS-69	 Almond Spice	 39	 4,00	 2,00	 85,00	 170,00	 
+ MS-72	 French Gray	 39	 18,00	 11,00	 85,00	 935,00	 
+ MS-74	 Spring Green	 39	 6,00	 0,00	 85,00	 0,00	 
+ MS-75	 Chive	 39	 3,00	 0,00	 85,00	 0,00	 
+ MS-76	 Sea Foam	 39	 8,00	 4,00	 85,00	 340,00	 
+ MS-77	 Jade	 39	 3,00	 2,00	 85,00	 170,00	 
+ MS-79	 Alfred Blue	 39	 6,00	 5,00	 85,00	 425,00	 
+ MS-80	 Dutch Blue	 39	 3,00	 1,00	 85,00	 85,00	 
+ MS-84	 Sunflower	 39	 2,00	 0,00	 85,00	 0,00	 
+ MS-85	 Peach Blush	 39	 4,00	 0,00	 85,00	 0,00	 
+ MS-86	 Peanut Butter	 39	 5,00	 2,00	 85,00	 170,00	 
+ MS-9	 Sandy Matte	 39	 3,00	 2,00	 85,00	 170,00	 
+ MS-90	 Blackberry Wine	 39	 2,00	 1,00	 85,00	 85,00	 
+ MS-93	 Peach	 39	 8,00	 0,00	 85,00	 0,00	 
+ MS-95	 Peacock	 39	 18,00	 0,00	 85,00	 0,00	 
+ MS-99	 Orange Satin	 39	 12,00	 2,00	 100,00	 200,00	 
+ MSD-100	 Clear Bright utan zink - Dry	 39	 5,00	 0,00	 140,00	 0,00	 
+ MSD-126	 Smokey Sun - Dry	 39	 2,00	 1,00	 205,00	 205,00	 
+ MSD-127	 Soft Clover - Dry	 39	 2,00	 1,00	 179,00	 179,00	 
+ MSD-128	 Iron Phoenix - Dry	 39	 2,00	 0,00	 192,50	 0,00	 
+ MSD-15	 Ochre - Dry	 39	 2,00	 0,00	 98,50	 0,00	 
+ MSD-220	 Nebula Blue - dry - 2 kg	 39	 1,00	 0,00	 193,50	 0,00	 
+ MSD-251	 Yellow Ore - Dry	 39	 1,00	 0,00	 118,00	 0,00	 
+ MSD-258	 Antique Turquoise - Dry - 2 kg	 39	 2,00	 0,00	 98,00	 0,00	 
+ MSD-26	 Snow Flake  - Dry	 39	 2,00	 1,00	 117,50	 117,50	 
+ MSD-267	 Milky Garnet  - Dry	 39	 2,00	 1,00	 212,50	 212,50	 
+ MSD-29	 Clear Bright utan zink - Dry	 39	 2,00	 0,00	 184,50	 0,00	 
+ MSD-301	 White - Dry	 39	 2,00	 1,00	 101,00	 101,00	 
+ MSD-35	 Sage Matte - Dry	 39	 4,00	 3,00	 101,50	 304,50	 
+ MSD-4	 Forest Green - Dry	 39	 2,00	 0,00	 110,50	 0,00	 
+ MSD-47	 Castle Blue - Dry	 39	 1,00	 0,00	 127,50	 0,00	 
+ MSD-5	 Speckled Blue-Grey - Dry	 39	 1,00	 0,00	 125,00	 0,00	 
+ MSD-54	 Emeraude - Dry	 39	 2,00	 1,00	 152,50	 152,50	 
+ MSD-63	 White Gloss - Dry	 39	 2,00	 0,00	 169,50	 0,00	 
+ NTBR-G	 Klarglasyr blank - Clear One - 3,78l	 35	 4,00	 0,00	 192,50	 0,00	 
+ NTCLR3	 Doppglasyr blank - Clear One - 13,25 l hink	 35	 2,00	 0,00	 425,00	 0,00	 
+ NTG-9000-P	 Penselglasyr - Simplicity Clear - Pint	 32	 2,00	 0,00	 39,40	 0,00	 
+ NTG-9060	 Glass Green - 473 ml	 32	 3,00	 1,00	 72,80	 72,80	 
+ NTG-9203	 Cloud White - 473 ml	 32	 5,00	 3,00	 72,80	 218,40	 
+ NTG-9316	 Mud Slide - 473 ml	 32	 3,00	 0,00	 109,30	 0,00	 
+ NTG-9317	 Volcanic Embers - 473 ml	 32	 8,00	 0,00	 109,30	 0,00	 
+ NTG-9319	 Pottery Peacock - 473 ml	 32	 4,00	 2,00	 109,30	 218,60	 
+ NTG-9337	 Antique Moss - 473 ml	 32	 4,00	 1,00	 55,70	 55,70	 
+ NTG-9514	 Riverstone - 473 ml	 32	 5,00	 2,00	 79,00	 158,00	 
+ NTG-9515	 Pottery Blue - 473 ml	 32	 3,00	 2,00	 79,00	 158,00	 
+ NTG-9516	 Midnight Stone - 473 ml	 32	 2,00	 0,00	 79,00	 0,00	 
+ NTG-9522	 Ocean Mist - 473 ml	 32	 3,00	 1,00	 79,00	 79,00	 
+ NTG-9532	 Robin&#x27;s Egg - 473 ml	 32	 3,00	 2,00	 79,00	 158,00	 
+ NTG-9537	 Mermaid Scales - 473 ml	 32	 4,00	 1,00	 79,00	 79,00	 
+ NTG-9539	 Lobster fest - 473 ml	 32	 2,00	 1,00	 79,00	 79,00	 
+ NTG-9540	 Denim Daze - 473 ml	 32	 5,00	 4,00	 79,00	 316,00	 
+ NTG-9555	 Magic Flow - 473 ml	 32	 1,00	 0,00	 85,80	 0,00	 
+ O-10	 Transparent Pearl	 16	 3,00	 2,00	 77,00	 154,00	 
+ O-11	 White Clover	 16	 4,00	 3,00	 80,50	 241,50	 
+ O-12	 Tawny	 16	 3,00	 2,00	 77,00	 154,00	 
+ O-20	 Bluebell	 16	 4,00	 3,00	 77,00	 231,00	 
+ O-23	 Sapphire Blue	 16	 4,00	 3,00	 77,00	 231,00	 
+ O-30	 Autumn Leaf	 16	 2,00	 1,00	 77,00	 77,00	 
+ O-42	 Moss Green	 16	 3,00	 2,00	 77,00	 154,00	 
+ O-54	 Dusty Rose	 16	 3,00	 0,00	 77,00	 0,00	 
+ PB001-P	 Klarglasyr blank för pensling Duncan - 473 ml	 35	 6,00	 4,00	 47,80	 191,20	 
+ PC-1	 Saturation Metallic	 17	 12,00	 10,00	 126,00	 1 260,00	 
+ PC-10	 June Bug	 17	 19,00	 11,00	 126,00	 1 386,00	 
+ PC-12	 Blue Midnight	 17	 63,00	 55,00	 73,50	 4 042,50	 
+ PC-15	 Satin Oribe	 17	 35,00	 17,00	 73,50	 1 249,50	 
+ PC-15G	 Satin Oribe	 17	 1,00	 0,00	 311,50	 0,00	 
+ PC-16	 Purple Crystal	 17	 4,00	 2,00	 73,50	 147,00	 
+ PC-17	 Honey Flux	 17	 80,00	 67,00	 73,50	 4 924,50	 
+ PC-17G	 Honey Flux - 3,8 l	 17	 3,00	 0,00	 329,00	 0,00	 
+ PC-21	 Arctic Blue	 17	 35,00	 26,00	 73,50	 1 911,00	 
+ PC-22	 Blue Stone	 17	 22,00	 14,00	 73,50	 1 029,00	 
+ PC-23G	 Indigo Float - 3,78l	 17	 5,00	 3,00	 329,00	 987,00	 
+ PC-24	 Sapphire Float	 17	 55,00	 40,00	 81,40	 3 256,00	 
+ PC-25	 Textured Turquoise	 17	 72,00	 21,00	 73,50	 1 543,50	 
+ PC-26	 Blue Lagoon	 17	 35,00	 23,00	 73,50	 1 690,50	 
+ PC-27	 Tourmaline	 17	 45,00	 23,00	 73,50	 1 690,50	 
+ PC-27G	 Tourmaline - 3,78 l	 17	 2,00	 1,00	 311,50	 311,50	 
+ PC-28	 Frosted Turquoise	 17	 12,00	 10,00	 81,40	 814,00	 
+ PC-29	 Deep Olive Speckle	 17	 24,00	 10,00	 81,40	 814,00	 
+ PC-29G	 Deep Olive Speckle	 17	 2,00	 0,00	 378,00	 0,00	 
+ PC-2G	 Saturation Gold - 3,78l	 17	 2,00	 0,00	 311,50	 0,00	 
+ PC-31	 Oatmeal	 17	 56,00	 51,00	 73,50	 3 748,50	 
+ PC-31G	 Oatmeal - 3,78l	 17	 2,00	 1,00	 311,50	 311,50	 
+ PC-32	 Albany Slip Brown	 17	 35,00	 0,00	 81,40	 0,00	 
+ PC-33G	 Iron Lustre	 17	 4,00	 3,00	 329,00	 987,00	 
+ PC-36	 Ironstone	 17	 35,00	 28,00	 73,50	 2 058,00	 
+ PC-38	 Iron Yellow - 473 ml	 17	 20,00	 16,00	 73,50	 1 176,00	 
+ PC-40	 True Celadon - 473 ml	 17	 12,00	 6,00	 73,50	 441,00	 
+ PC-43	 Toasted Sage	 17	 35,00	 32,00	 73,50	 2 352,00	 
+ PC-44	 Sage	 17	 30,00	 3,00	 73,50	 220,50	 
+ PC-45	 Dark Green	 17	 24,00	 10,00	 73,50	 735,00	 
+ PC-45G	 Dark Green - 3,87l	 17	 5,00	 0,00	 311,50	 0,00	 
+ PC-46	 Lustrous Jade	 17	 65,00	 12,00	 73,50	 882,00	 
+ PC-46G	 Lustrous Jade	 17	 1,00	 0,00	 329,00	 0,00	 
+ PC-47	 Emerald Falls	 17	 48,00	 31,00	 73,50	 2 278,50	 
+ PC-47G	 Emerald Falls - 3,78 l	 17	 2,00	 1,00	 311,50	 311,50	 
+ PC-48	 Art Deco Green	 17	 18,00	 2,00	 81,40	 162,80	 
+ PC-48G	 Art Deco Green - 3,87l	 17	 2,00	 1,00	 378,00	 378,00	 
+ PC-49	 Frosted Melon	 17	 8,00	 5,00	 73,50	 367,50	 
+ PC-4G	 Palladium - 3,87l	 17	 2,00	 0,00	 378,00	 0,00	 
+ PC-53	 Ancient Jasper	 17	 45,00	 8,00	 73,50	 588,00	 
+ PC-53G	 Ancient Jasper - 3,87l	 17	 2,00	 1,00	 311,50	 311,50	 
+ PC-55	 Chun Plum	 17	 35,00	 23,00	 81,40	 1 872,20	 
+ PC-55G	 Chun Plum - 3,87l	 17	 2,00	 1,00	 399,00	 399,00	 
+ PC-59	 Deep Firebrick	 17	 24,00	 15,00	 81,40	 1 221,00	 
+ PC-601	 Cascades - Clear	 35	 3,00	 0,00	 85,00	 0,00	 
+ PC-63	 Cosmic Tea Dust	 17	 35,00	 14,00	 73,50	 1 029,00	 
+ PC-64	 Aventurine	 17	 6,00	 3,00	 73,50	 220,50	 
+ PC-65	 Black Adventurine	 17	 18,00	 2,00	 81,40	 162,80	 
+ PC-67	 River Rock	 17	 35,00	 33,00	 73,50	 2 425,50	 
+ PC-67G	 River Rock	 17	 2,00	 0,00	 311,50	 0,00	 
+ PC-70	 Copper Red	 17	 12,00	 8,00	 81,40	 651,20	 
+ PC-9	 Vintage Gold - 473 ml	 17	 26,00	 14,00	 81,40	 1 139,60	 
+ PC-9G	 Vintage Gold - 3,8 l	 17	 2,00	 0,00	 378,00	 0,00	 
+ PCF-18	 Honeydew	 17	 39,00	 23,00	 70,00	 1 610,00	 
+ PCF-19	 Cirrus Flow	 17	 45,00	 42,00	 70,00	 2 940,00	 
+ PCF-74	 River Birch	 17	 60,00	 49,00	 73,50	 3 601,50	 
+ R120B1	 Ellis Love detalj sobel - #1	 50	 2,00	 0,00	 4,20	 0,00	 
+ R120B3	 Ellis Love detalj sobel - #3	 50	 2,00	 1,00	 4,20	 4,20	 
+ R1325-5	 Borstpensel rund #5	 50	 1,00	 0,00	 10,00	 0,00	 
+ R1455-0	 Borstpensel platt - #0	 50	 2,00	 1,00	 5,00	 5,00	 
+ R15-10	 ECT shader - #10 - 9 mm	 50	 3,00	 0,00	 2,70	 0,00	 
+ R15-3	 ECT shader - #3 - 3 mm	 50	 2,00	 0,00	 2,70	 0,00	 
+ R2499	 Aqualon mop #4	 50	 2,00	 0,00	 12,50	 0,00	 
+ R2850-4	 Aqualon - solfjäderpensel	 50	 24,00	 0,00	 20,00	 0,00	 
+ R9595-1	 Crafters Choice liner #1	 50	 2,00	 1,00	 7,50	 7,50	 
+ R998-PL6	 Borstpensel Duster #6	 50	 6,00	 4,00	 7,50	 30,00	 
+ RART-105	 Kamelhår penselset med 3 st	 50	 6,00	 2,00	 15,00	 30,00	 
+ RCC201	 Royal penselset - A	 50	 18,00	 14,00	 17,50	 245,00	 
+ RCC204	 Royal penselset - C	 50	 15,00	 11,00	 17,50	 192,50	 
+ RCC214	 Royal penselset - E	 50	 17,00	 15,00	 17,50	 262,50	 
+ RCC215	 Royal penselset - F	 50	 12,00	 2,00	 17,50	 35,00	 
+ RCC230	 Royal penselset - R	 50	 6,00	 3,00	 17,50	 52,50	 
+ RDL-STIP-MD	 Glasyrpensel - Medium	 50	 2,00	 1,00	 12,00	 12,00	 
+ RG-2	 Monstera	 39	 15,00	 14,00	 90,00	 1 260,00	 
+ RG-3	 Mantis	 39	 9,00	 8,00	 90,00	 720,00	 
+ RG-4	 Hidden Falls	 39	 7,00	 6,00	 90,00	 540,00	 
+ RG-5	 Bengal Tiger	 39	 12,00	 6,00	 90,00	 540,00	 
+ RG-6	 Cocoa Nibs	 39	 12,00	 3,00	 90,00	 270,00	 
+ RG-7	 Tree Frog	 39	 8,00	 5,00	 90,00	 450,00	 
+ RG-8	 Crocodile Lake	 39	 15,00	 13,00	 90,00	 1 170,00	 
+ RK103	 White Crackle	 35	 2,00	 0,00	 72,50	 0,00	 
+ RK105	 Copper Penny	 35	 2,00	 1,00	 72,50	 72,50	 
+ RK107	 Oil Slick	 35	 3,00	 2,00	 72,50	 145,00	 
+ RSET-Q	 Ellis Love Penselset B	 50	 20,00	 12,00	 21,00	 252,00	 
+ S2101G	 Klarglasyr blank - 3,78 l	 35	 1,00	 0,00	 182,30	 0,00	 
+ S-2701	 Peacock Eyes	 35	 5,00	 2,00	 94,10	 188,20	 
+ S-2703	 Berryberry Pie	 35	 1,00	 0,00	 94,10	 0,00	 
+ S-2711	 Tahiti Grape	 35	 2,00	 1,00	 94,10	 94,10	 
+ S-2726	 Cheetah	 35	 2,00	 0,00	 94,10	 0,00	 
+ S-2727	 Poppy Fields	 35	 4,00	 0,00	 94,10	 0,00	 
+ S-2729	 Citrus Splash	 35	 3,00	 2,00	 94,10	 188,20	 
+ SA13	 Cobalt Blue	 44	 2,00	 0,00	 28,30	 0,00	 
+ SA18	 Burnt Sienna	 44	 1,00	 0,00	 28,30	 0,00	 
+ SA19	 Burnt Umber	 44	 1,00	 0,00	 28,30	 0,00	 
+ SA202	 Neon Yellow	 44	 1,00	 0,00	 31,60	 0,00	 
+ SAB01	 Penselset - långt skaft	 44	 15,00	 0,00	 17,82	 0,00	 
+ SAM06	 Karbonpapper vit 40 x 50 cm	 44	 2,00	 0,00	 10,00	 0,00	 
+ SB-106	 Skål - 6 st - stengods	 22	 2,00	 0,00	 315,00	 0,00	 
+ SB-110	 Liten skål - 6 st - stengods	 22	 2,00	 0,00	 264,00	 0,00	 
+ SB-118	 Ovalt Fat - 4 st - stengods	 22	 1,00	 0,00	 230,00	 0,00	 
+ SB-119	 Skål - 6 st - stengods	 22	 1,00	 0,00	 360,00	 0,00	 
+ SB-126	 Ramekin 10 cm - 6 st - stengods	 22	 2,00	 0,00	 255,00	 0,00	 
+ SB-134	 Hippy Mug - 6 st - stengods	 22	 1,00	 0,00	 300,00	 0,00	 
+ SB-135	 Carmen Mug - 6 st - stengods	 22	 1,00	 0,00	 300,00	 0,00	 
+ SB-138	 Mugg Joe - 6 st - stengods	 22	 2,00	 1,00	 180,00	 180,00	 
+ SB-139	 Mugg tumme - 6 st - stengods	 22	 2,00	 0,00	 180,00	 0,00	 
+ SB-144	 Ugnsform - 2 st - stengods	 22	 1,00	 0,00	 200,00	 0,00	 
+ SB-148	 Skål - 4 st - stengods	 22	 2,00	 0,00	 300,00	 0,00	 
+ SB-149	 Serveringsskål - 3 st - stengods	 22	 2,00	 0,00	 285,00	 0,00	 
+ SBG-1006	 Royal Blue - 59 ml	 24	 6,00	 -3,00	 34,30	 -102,90	 
+ SBG-1007	 Medium Blue - 59 ml	 24	 6,00	 2,00	 24,60	 49,20	 
+ SBG-1015	 Brown - 59 ml	 24	 6,00	 5,00	 26,20	 131,00	 
+ SBG-1020	 Red - 59 ml	 24	 6,00	 4,00	 41,50	 166,00	 
+ SBG-1027	 Mandarin Orange - 59 ml	 24	 6,00	 5,00	 36,50	 182,50	 
+ SBG-1029	 Saffron Yellow - 59 ml	 24	 6,00	 5,00	 31,80	 159,00	 
+ SBG-1033	 Blue Frost - 59 ml	 24	 6,00	 2,00	 26,20	 52,40	 
+ SBG-1050-P	 White - 473 ml	 24	 2,00	 0,00	 80,00	 0,00	 
+ SBG-1085	 Underglaze Set 1085 - 12 st	 24	 3,00	 2,00	 359,70	 719,40	 
+ SBG-2000	 Klarglasyr blank - stengods	 24	 12,00	 -3,00	 66,00	 -198,00	 
+ SBG-2101	 Blackened Copper	 24	 6,00	 4,00	 76,00	 304,00	 
+ SBG-2103	 Dragon Stone	 24	 12,00	 -3,00	 109,80	 -329,40	 
+ SBG-2113	 Gossamer Drift	 24	 5,00	 4,00	 76,60	 306,40	 
+ SBG-2116	 Hematite	 24	 6,00	 5,00	 76,00	 380,00	 
+ SBG-2118	 Buttermilk	 24	 5,00	 3,00	 76,60	 229,80	 
+ SBG-2119	 Champagne Quartz	 24	 6,00	 5,00	 67,60	 338,00	 
+ SBG-2124	 Midnight Plum	 24	 5,00	 4,00	 124,40	 497,60	 
+ SBG-2125	 Jasper	 24	 5,00	 4,00	 86,10	 344,40	 
+ SBG-4001	 Bright White - 473 ml	 24	 2,00	 0,00	 81,20	 0,00	 
+ SBG-4006	 Grass Green - 473 ml	 24	 2,00	 0,00	 81,20	 0,00	 
+ SBG-4017	 Gray - 473 ml	 24	 2,00	 1,00	 81,20	 81,20	 
+ SBG-4018	 Black - 473 ml	 24	 2,00	 1,00	 81,20	 81,20	 
+ SBG-4023	 Red - 473 ml	 24	 2,00	 -2,00	 91,00	 -182,00	 
+ SC1	 Pink-A-Boo	 35	 9,00	 0,00	 41,30	 0,00	 
+ SC10	 Teal Next Time	 35	 2,00	 0,00	 41,30	 0,00	 
+ SC100	 Makin&#x27; Me Blush	 35	 12,00	 0,00	 41,30	 0,00	 
+ SC100-P	 Makin&#x27; Me Blush - 473 ml	 35	 4,00	 0,00	 89,30	 0,00	 
+ SC101	 Spruce It Up	 35	 4,00	 0,00	 41,30	 0,00	 
+ SC102	 Just Peachy	 35	 7,00	 0,00	 41,30	 0,00	 
+ SC102-P	 Just Peachy - 473 ml	 35	 2,00	 1,00	 89,30	 89,30	 
+ SC103	 Lavendear	 35	 6,00	 0,00	 41,30	 0,00	 
+ SC104	 Grape Expectations	 35	 4,00	 3,00	 41,30	 123,90	 
+ SC11	 Blue Yonder	 35	 10,00	 0,00	 41,30	 0,00	 
+ SC11-P	 Blue Yonder - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC12	 Moody Blue	 35	 9,00	 0,00	 41,30	 0,00	 
+ SC12-2	 Moody Blue - 59 ml	 35	 6,00	 3,00	 17,80	 53,40	 
+ SC12-P	 Moody Blue - 473 ml	 35	 4,00	 0,00	 89,30	 0,00	 
+ SC13	 Grapel	 35	 7,00	 0,00	 41,30	 0,00	 
+ SC13-2	 Grapel - 59 ml	 35	 6,00	 5,00	 17,80	 89,00	 
+ SC13-P	 Grapel - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC14	 Java Bean	 35	 5,00	 2,00	 41,30	 82,60	 
+ SC15	 Tuxedo	 35	 7,00	 0,00	 41,30	 0,00	 
+ SC15-P	 Tuxedo - 473 ml	 35	 7,00	 2,00	 89,30	 178,60	 
+ SC16	 Cotton Tail	 35	 15,00	 0,00	 41,30	 0,00	 
+ SC16-G	 Cotton Tail	 35	 1,00	 0,00	 620,00	 0,00	 
+ SC17	 Chinky Pinky	 35	 4,00	 0,00	 41,30	 0,00	 
+ SC17-P	 Chinky Pinky - 473 ml	 35	 3,00	 1,00	 89,30	 89,30	 
+ SC18	 Rosey Posey	 35	 4,00	 0,00	 41,30	 0,00	 
+ SC1-P	 Pink-A-Boo - 473 ml	 35	 4,00	 2,00	 89,30	 178,60	 
+ SC20	 Cashew Later	 35	 7,00	 0,00	 41,30	 0,00	 
+ SC20-P	 Cashew Later - 473 ml	 35	 4,00	 2,00	 89,30	 178,60	 
+ SC23	 Jack OLantern	 35	 4,00	 0,00	 41,30	 0,00	 
+ SC24	 Dandelion	 35	 7,00	 0,00	 41,30	 0,00	 
+ SC24-P	 Dandelion - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC26	 Green Thumb	 35	 9,00	 4,00	 41,30	 165,20	 
+ SC-2609	 Black Top	 32	 1,00	 0,00	 72,80	 0,00	 
+ SC27-P	 Sour Apple	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC28	 Blue Isle	 35	 3,00	 0,00	 41,30	 0,00	 
+ SC28-P	 Blue Isle - 473 ml	 35	 3,00	 2,00	 89,30	 178,60	 
+ SC29	 Blue Grass	 35	 10,00	 0,00	 41,30	 0,00	 
+ SC29-P	 Blue Grass - 473 ml	 35	 2,00	 1,00	 89,30	 89,30	 
+ SC2-P	 Melon Choly - 473 ml	 35	 2,00	 1,00	 89,30	 89,30	 
+ SC3	 Wine About It	 35	 7,00	 4,00	 41,30	 165,20	 
+ SC30	 Blue Dawn	 35	 5,00	 0,00	 41,30	 0,00	 
+ SC30-P	 Blue Dawn	 35	 6,00	 1,00	 89,30	 89,30	 
+ SC31	 The Blues	 35	 7,00	 0,00	 41,30	 0,00	 
+ SC32	 Bluebeard	 35	 4,00	 0,00	 41,30	 0,00	 
+ SC33	 Fruit of the Vine	 35	 2,00	 0,00	 41,30	 0,00	 
+ SC34	 Down To Earth	 35	 2,00	 0,00	 41,30	 0,00	 
+ SC35	 Gray Hare	 35	 10,00	 5,00	 41,30	 206,50	 
+ SC35-P	 Gray Hare - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC36	 Irish Luck	 35	 5,00	 0,00	 41,30	 0,00	 
+ SC36-P	 Irish Luck - 473 ml	 35	 4,00	 3,00	 89,30	 267,90	 
+ SC37	 Ivory Tower	 35	 7,00	 4,00	 41,30	 165,20	 
+ SC37-P	 Ivory Tower - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC39	 Army Surplus	 35	 5,00	 2,00	 41,30	 82,60	 
+ SC39-P	 Army Surplus - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC40	 Blueberry Hill	 35	 8,00	 0,00	 41,30	 0,00	 
+ SC41	 Brown Cow	 35	 2,00	 0,00	 41,30	 0,00	 
+ SC42	 Butter Me Up	 35	 2,00	 0,00	 41,30	 0,00	 
+ SC43	 Lettuce Alone	 35	 2,00	 0,00	 41,30	 0,00	 
+ SC45	 My Blue Heaven	 35	 4,00	 0,00	 41,30	 0,00	 
+ SC46	 Rawhide	 35	 4,00	 0,00	 41,30	 0,00	 
+ SC5	 Tiger Tail	 35	 2,00	 0,00	 41,30	 0,00	 
+ SC50	 Orange Ya Happy	 35	 2,00	 0,00	 41,30	 0,00	 
+ SC52	 Toad-ily Green	 35	 4,00	 0,00	 41,30	 0,00	 
+ SC52-2	 Toad-ily Green - 59 ml	 35	 6,00	 1,00	 17,80	 17,80	 
+ SC54	 Vanilla Dip	 35	 5,00	 0,00	 41,30	 0,00	 
+ SC55	 Yella Bout It	 35	 7,00	 6,00	 41,30	 247,80	 
+ SC58	 501 Blues	 35	 8,00	 0,00	 41,30	 0,00	 
+ SC58-P	 501 Blues - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC6	 Sunkissed - 237 ml	 35	 12,00	 0,00	 41,30	 0,00	 
+ SC60	 Silver Lining	 35	 8,00	 0,00	 41,30	 0,00	 
+ SC60-P	 Silver Lining - 473 ml	 35	 4,00	 2,00	 89,30	 178,60	 
+ SC65	 Peri-Twinkle	 35	 2,00	 0,00	 41,30	 0,00	 
+ SC65-P	 Peri-Twinkle - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC70	 Pink-A-Dot	 35	 6,00	 0,00	 41,30	 0,00	 
+ SC70-P	 Pink-A-Dot - 473 ml	 35	 2,00	 1,00	 89,30	 89,30	 
+ SC71	 Purple-licious	 35	 3,00	 2,00	 41,30	 82,60	 
+ SC72	 Grape Jelly	 35	 2,00	 0,00	 41,30	 0,00	 
+ SC73	 Candy Apple Red	 35	 6,00	 0,00	 41,30	 0,00	 
+ SC73-P	 Candy Apple Red	 35	 5,00	 0,00	 89,30	 0,00	 
+ SC74	 Hot Tamale	 35	 24,00	 9,00	 41,30	 371,70	 
+ SC74-P	 Hot Tamale	 35	 18,00	 8,00	 89,30	 714,40	 
+ SC75	 Orange-A-Peel	 35	 8,00	 0,00	 41,30	 0,00	 
+ SC76	 Cara-Bein Blue	 35	 9,00	 0,00	 41,30	 0,00	 
+ SC76-P	 Cara-Bein Blue - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC77	 Glo Worm	 35	 6,00	 0,00	 41,30	 0,00	 
+ SC79	 Its Sage	 35	 2,00	 0,00	 41,30	 0,00	 
+ SC79-P	 Its Sage - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC7-P	 Leapin Lizard - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC8	 Just Froggy	 35	 3,00	 0,00	 41,30	 0,00	 
+ SC80	 Basketball	 35	 4,00	 0,00	 41,30	 0,00	 
+ SC81	 Cinnamon Stix	 35	 2,00	 0,00	 41,30	 0,00	 
+ SC83	 Tip Taupe	 35	 8,00	 0,00	 41,30	 0,00	 
+ SC85	 Orkid	 35	 12,00	 0,00	 41,30	 0,00	 
+ SC85-P	 Orkid - 473 ml	 35	 4,00	 0,00	 89,30	 0,00	 
+ SC86	 Old Lace	 35	 10,00	 0,00	 41,30	 0,00	 
+ SC87	 Ruby Slippers	 35	 12,00	 0,00	 41,30	 0,00	 
+ SC87-P	 Ruby Slippers	 35	 8,00	 0,00	 89,30	 0,00	 
+ SC89	 Cutie Pie Coral	 35	 6,00	 0,00	 41,30	 0,00	 
+ SC89-P	 Cutie Pie Coral - 473 ml	 35	 3,00	 0,00	 89,30	 0,00	 
+ SC9	 Jaded	 35	 5,00	 0,00	 41,30	 0,00	 
+ SC90	 Elephant Ears	 35	 6,00	 0,00	 41,30	 0,00	 
+ SC90-P	 Elephant Ears - 473 ml	 35	 3,00	 2,00	 89,30	 178,60	 
+ SC91	 Seabreeze	 35	 12,00	 0,00	 41,30	 0,00	 
+ SC92	 Café Ole	 35	 9,00	 0,00	 41,30	 0,00	 
+ SC92-P	 Café Ole - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC93	 Honeydew List	 35	 7,00	 4,00	 41,30	 165,20	 
+ SC95	 Pinkie Swear	 35	 6,00	 0,00	 41,30	 0,00	 
+ SC95-P	 Pinkie Swear - 473 ml	 35	 2,00	 0,00	 89,30	 0,00	 
+ SC96	 Aqu-ward	 35	 9,00	 0,00	 41,30	 0,00	 
+ SC97	 Cant-elope	 35	 6,00	 0,00	 41,30	 0,00	 
+ SC97-P	 Cant-elope - 473 ml	 35	 3,00	 1,00	 89,30	 89,30	 
+ SC98	 Slime Time	 35	 2,00	 0,00	 41,30	 0,00	 
+ SCkit1	 Stroke & Coat Kit	 35	 5,00	 -1,00	 208,00	 -208,00	 
+ SCkit3	 Stroke & Coat Kit 3	 35	 4,00	 0,00	 208,00	 0,00	 
+ SD-001	 Klarglasyr blank - 4,5 kg	 37	 4,00	 0,00	 350,00	 0,00	 
+ SD-003	 Matte krackelerings Dry - 4,5 kg	 37	 3,00	 0,00	 350,00	 0,00	 
+ SD-004	 Klarglasyr blank utan zink - Dry  4,5 kg	 37	 2,00	 0,00	 350,00	 0,00	 
+ SD-100	 Blue Surf - Dry 4,5 kg	 37	 5,00	 0,00	 490,00	 0,00	 
+ SD-101	 Stoned Denim - Dry 4,5 kg	 37	 4,00	 1,00	 490,00	 490,00	 
+ SD-106	 Alabaster - Dry 4,5 kg	 37	 4,00	 2,00	 422,50	 845,00	 
+ SD-107	 Dunes - Dry 4,5 kg	 37	 3,00	 2,00	 422,50	 845,00	 
+ SD-112	 Tigers Eye - Dry 4,5 kg	 37	 2,00	 0,00	 422,50	 0,00	 
+ SD-115	 Midnight Rain - Dry 4,5 kg	 37	 4,00	 2,00	 575,00	 1 150,00	 
+ SD-119	 Cinnabar - Dry  4,5 kg	 37	 3,00	 1,00	 590,00	 590,00	 
+ SD-121	 Smoke - Dry 4,5 kg	 37	 4,00	 1,00	 422,50	 422,50	 
+ SD-131	 Birch - Dry 4,5 kg	 37	 6,00	 0,00	 422,50	 0,00	 
+ SD-140	 Black Matte - Dry 4,5 kg	 37	 5,00	 2,00	 422,50	 845,00	 
+ SD-141	 White Matte - Dry 4,5 kg	 37	 3,00	 2,00	 422,50	 845,00	 
+ SD-146	 Aurora Green - Dry 4,5 kg	 35	 1,00	 0,00	 590,00	 0,00	 
+ SD-154	 Shipwreck - Dry 4,5 kg	 37	 4,00	 2,00	 590,00	 1 180,00	 
+ SD-155	 Winter Wood - Dry 4,5 kg	 37	 5,00	 0,00	 590,00	 0,00	 
+ SD-164	 Satin Patina - Dry 4,5 kg	 37	 3,00	 1,00	 422,50	 422,50	 
+ SD-165	 Lavender Mist - Dry 4,5 kg	 37	 2,00	 1,00	 490,00	 490,00	 
+ SD-166	 Norse Blue - Dry - 4,5 kg	 37	 6,00	 2,00	 422,50	 845,00	 
+ SD-169	 Frosted Lemon - Dry - 4,5 kg	 37	 2,00	 0,00	 490,00	 0,00	 
+ SD-176	 Sandstone - Dry 4,5 kg	 37	 2,00	 0,00	 590,00	 0,00	 
+ SD-191	 Peppered Plum - Dry 4,5 kg	 37	 2,00	 1,00	 590,00	 590,00	 
+ SD-193	 Ivy - Dry 4,5 kg	 37	 2,00	 1,00	 422,50	 422,50	 
+ SD-204	 Amber Topaz - Dry - 4,5 kg	 37	 6,00	 0,00	 410,00	 0,00	 
+ SD-250	 White Opal - Dry 4,5 kg	 37	 4,00	 1,00	 410,00	 410,00	 
+ SD-251	 Pink Opal - Dry 4,5 kg	 37	 4,00	 2,00	 500,00	 1 000,00	 
+ SD-405	 Light Magma - Dry 4,5 kg	 37	 2,00	 0,00	 422,50	 0,00	 
+ SD-406	 Dark Magma - Dry 4,5 kg	 37	 4,00	 1,00	 422,50	 422,50	 
+ SD-501	 White Gloss - Dry 4,5 kg	 37	 6,00	 5,00	 410,00	 2 050,00	 
+ SD-508	 Black Gloss Dry - 4,5 kg	 37	 4,00	 1,00	 490,00	 490,00	 
+ SG1400-1	 Gethårpensel #1	 50	 11,00	 9,00	 10,00	 90,00	 
+ SG190-1-4	 Softgrip Dagger #1/4	 50	 1,00	 0,00	 10,00	 0,00	 
+ SG-201-4	 Cobblestone - Black	 35	 18,00	 0,00	 19,10	 0,00	 
+ SG-202-4	 Cobblestone - White	 35	 18,00	 3,00	 19,10	 57,30	 
+ SG-302	 Snö effektglasyr	 35	 2,00	 1,00	 66,90	 66,90	 
+ SG-401	 Designer Liner Black	 35	 18,00	 14,00	 21,60	 302,40	 
+ SG401	 Softgrip Set #5	 50	 1,00	 0,00	 35,90	 0,00	 
+ SG-403	 Designer Liner Red	 35	 4,00	 -1,00	 21,60	 -21,60	 
+ SG-404	 Designer Liner Blue	 35	 5,00	 4,00	 21,60	 86,40	 
+ SG595-20-0	 Softgrip Detail #20/0	 50	 8,00	 0,00	 10,00	 0,00	 
+ SG825-2	 Borst solfjäderpensel #2	 50	 20,00	 7,00	 10,00	 70,00	 
+ SG995-S	 Mini Mop - S	 50	 1,00	 0,00	 11,10	 0,00	 
+ SH-12	 Chai Matte	 17	 8,00	 6,00	 70,00	 420,00	 
+ SH-21	 Acai Gloss	 17	 6,00	 4,00	 70,00	 280,00	 
+ SH-31	 Cacao Gloss	 17	 6,00	 -4,00	 70,00	 -280,00	 
+ SH-41	 Oolong Gloss	 17	 6,00	 4,00	 70,00	 280,00	 
+ SH-46	 Matcha Matte	 17	 8,00	 2,00	 70,00	 140,00	 
+ SIL-1	 Sunshine - 118 ml	 39	 2,00	 0,00	 64,00	 0,00	 
+ SIL-10	 Raven Black - 118 ml	 39	 2,00	 0,00	 64,00	 0,00	 
+ SIL-11	 Blue Jay - 118 ml	 39	 2,00	 1,00	 64,00	 64,00	 
+ SIL-22	 Flamingo - 118 ml	 39	 2,00	 1,00	 64,00	 64,00	 
+ SIL-34	 Dusty Rose - 118 ml	 39	 2,00	 1,00	 64,00	 64,00	 
+ SIL-4	 Dark Chocolate - 118 ml	 39	 2,00	 1,00	 64,00	 64,00	 
+ SIL-45	 Sapphire - 118 ml	 39	 2,00	 0,00	 64,00	 0,00	 
+ SIL-46	 Wine - 118 ml	 39	 2,00	 1,00	 64,00	 64,00	 
+ SIL-47	 Seaglass - 118 ml	 39	 2,00	 1,00	 64,00	 64,00	 
+ SIL-49	 Minty - 118 ml	 39	 2,00	 1,00	 64,00	 64,00	 
+ SIL-54	 White - 118 ml	 39	 2,00	 0,00	 64,00	 0,00	 
+ SIL-58	 Rosy - 118 ml	 39	 2,00	 1,00	 64,00	 64,00	 
+ SIL-60	 Lavender - 118 ml	 39	 2,00	 1,00	 64,00	 64,00	 
+ SIL-8	 Clover - 118 ml	 39	 2,00	 1,00	 64,00	 64,00	 
+ SIL-82	 Sassy Red - 118 ml	 39	 2,00	 0,00	 64,00	 0,00	 
+ SK-Eli	 The Elite	 77	 1,00	 0,00	 11 667,50	 0,00	 
+ SK-leg	 Benförlängning	 77	 1,00	 0,00	 1 260,00	 0,00	 
+ SK-Pro	 The Prodigy - beställningsvara	 77	 1,00	 0,00	 9 660,00	 0,00	 
+ SM-1	 Black	 17	 24,00	 5,00	 70,00	 350,00	 
+ SM-10	 Clear Satin	 17	 12,00	 9,00	 70,00	 630,00	 
+ SM-2	 Stone	 17	 7,00	 4,00	 70,00	 280,00	 
+ SM-27	 Teal	 17	 6,00	 4,00	 70,00	 280,00	 
+ SM-46	 Moss	 17	 7,00	 5,00	 70,00	 350,00	 
+ SM-51	 Red	 17	 8,00	 0,00	 70,00	 0,00	 
+ SM-53	 Cayenne	 17	 7,00	 1,00	 70,00	 70,00	 
+ SM-63	 Yellow	 17	 7,00	 6,00	 70,00	 420,00	 
+ SP201	 Pink-A-Boo - Speckled	 35	 4,00	 1,00	 97,80	 97,80	 
+ SP206	 Sunkissed - Speckled	 35	 2,00	 1,00	 97,80	 97,80	 
+ SP209	 Jaded - Speckled	 35	 4,00	 0,00	 97,80	 0,00	 
+ SP210	 Teal Next Time - Speckled	 35	 16,00	 3,00	 97,80	 293,40	 
+ SP211	 Blue Yonder - Speckled	 35	 16,00	 4,00	 97,80	 391,20	 
+ SP212	 Moody Blue - Speckled	 35	 16,00	 6,00	 97,80	 586,80	 
+ SP215	 Tuxedo - Speckled	 35	 16,00	 5,00	 97,80	 489,00	 
+ SP216	 Cotton Tail - Speckled	 35	 4,00	 3,00	 97,80	 293,40	 
+ SP226	 Green Thumb - Speckled	 35	 2,00	 1,00	 97,80	 97,80	 
+ SP254	 Vanilla Dip - Speckled	 35	 4,00	 0,00	 97,80	 0,00	 
+ SP260	 Silver Lining - Speckled	 35	 3,00	 1,00	 97,80	 97,80	 
+ SP274	 Hot Tamale - Speckled	 35	 16,00	 6,00	 97,80	 586,80	 
+ SP275	 Orange-A-Peel - Speckled	 35	 16,00	 8,00	 97,80	 782,40	 
+ SP288	 Tu Tu Tango - Speckled	 35	 4,00	 0,00	 97,80	 0,00	 
+ SPkit2	 Speck.Stroke & Coat kit	 35	 1,00	 0,00	 208,00	 0,00	 
+ ST-ATRH4	 Handtag - 10 cm	 62	 2,00	 1,00	 30,00	 30,00	 
+ ST-ATST	 Tribal - 10 cm	 62	 2,00	 1,00	 36,30	 36,30	 
+ ST-MX10030	 Stämpel - Chrysanthemum	 62	 4,00	 2,00	 64,80	 129,60	 
+ ST-MX10296	 Stämpel alfabet - liten	 62	 6,00	 4,00	 119,80	 479,20	 
+ ST-MX10297	 Stämpel alfabet - stora	 62	 6,00	 5,00	 119,80	 599,00	 
+ SW-001G	 Klarglasyr blank - 3,8 l	 37	 2,00	 1,00	 240,00	 240,00	 
+ SW-003	 Matt krackeleringsglasyr	 37	 18,00	 7,00	 65,00	 455,00	 
+ SW-004	 Klarglasyr blank utan zink	 37	 20,00	 0,00	 65,00	 0,00	 
+ SW-100	 Blue Surf	 37	 18,00	 7,00	 76,30	 534,10	 
+ SW-101G	 Stoned Denim - 3.78l	 37	 2,00	 0,00	 410,00	 0,00	 
+ SW-104	 Black Walnut	 37	 6,00	 0,00	 66,30	 0,00	 
+ SW-107	 Dunes	 37	 12,00	 11,00	 66,30	 729,30	 
+ SW-108	 Green Tea	 37	 24,00	 14,00	 66,30	 928,20	 
+ SW-108G	 Green Tea - 3.78l	 37	 2,00	 1,00	 410,00	 410,00	 
+ SW-109	 Capri Blue	 37	 15,00	 0,00	 66,30	 0,00	 
+ SW-111	 Wrought Iron	 37	 6,00	 5,00	 66,30	 331,50	 
+ SW-116	 Robins Egg	 37	 24,00	 10,00	 85,00	 850,00	 
+ SW-119	 Cinnabar	 37	 15,00	 5,00	 85,00	 425,00	 
+ SW-120	 Northern Woods	 37	 18,00	 0,00	 66,30	 0,00	 
+ SW-122	 Maycoshino	 37	 8,00	 3,00	 85,00	 255,00	 
+ SW-135	 Wintergreen	 37	 10,00	 0,00	 66,30	 0,00	 
+ SW-144	 Lava Rock	 37	 4,00	 0,00	 76,30	 0,00	 
+ SW-145	 Tea Dust	 37	 4,00	 3,00	 76,30	 228,90	 
+ SW-146	 Aurora Green	 37	 14,00	 0,00	 85,00	 0,00	 
+ SW-147	 Moonscape	 37	 24,00	 15,00	 85,00	 1 275,00	 
+ SW-150	 Celadon Bloom	 37	 16,00	 13,00	 85,00	 1 105,00	 
+ SW-151	 Olive Float	 37	 15,00	 12,00	 85,00	 1 020,00	 
+ SW-156	 Galaxy	 37	 10,00	 1,00	 85,00	 85,00	 
+ SW-162	 Pink Matte	 37	 12,00	 4,00	 63,80	 255,20	 
+ SW-169	 Frosted Lemon	 37	 10,00	 0,00	 66,30	 0,00	 
+ SW-170	 Blue Hydrangea	 37	 24,00	 16,00	 85,00	 1 360,00	 
+ SW-171	 Enchanted Forest	 37	 18,00	 7,00	 85,00	 595,00	 
+ SW-172	 Macadamia	 37	 4,00	 0,00	 66,30	 0,00	 
+ SW-174	 Leather	 37	 8,00	 0,00	 66,30	 0,00	 
+ SW-181	 Night Moth	 37	 8,00	 4,00	 85,00	 340,00	 
+ SW-183	 Oxblood	 37	 12,00	 6,00	 76,30	 457,80	 
+ SW-185	 Rainforest	 37	 18,00	 4,00	 76,30	 305,20	 
+ SW-186	 Azurite	 37	 18,00	 6,00	 85,00	 510,00	 
+ SW-187	 Himalayan Salt	 37	 18,00	 2,00	 76,30	 152,60	 
+ SW-188	 Landslide	 37	 6,00	 0,00	 76,30	 0,00	 
+ SW-195	 Riptide	 37	 24,00	 19,00	 76,30	 1 449,70	 
+ SW-196	 Sand Dollar	 37	 24,00	 6,00	 76,30	 457,80	 
+ SW-198	 Rose Quartz	 37	 36,00	 16,00	 76,30	 1 220,80	 
+ SW-211	 Glacier Blue	 37	 8,00	 4,00	 76,30	 305,20	 
+ SW-214	 Micro Pearl	 37	 30,00	 13,00	 76,30	 991,90	 
+ SW-219	 Opal Lustre	 37	 45,00	 28,00	 76,30	 2 136,40	 
+ SW-250	 White Opal	 37	 12,00	 8,00	 85,00	 680,00	 
+ SW-251	 Pink Opal	 37	 25,00	 0,00	 85,00	 0,00	 
+ SW-253	 Green Opal	 37	 10,00	 2,00	 85,00	 170,00	 
+ SW-255	 Gray Opal	 37	 8,00	 3,00	 85,00	 255,00	 
+ SW-302	 Rutile Wash	 37	 8,00	 7,00	 18,56	 129,92	 
+ SW-401	 Mayco Light Flux - 118 ml	 37	 18,00	 8,00	 20,63	 165,04	 
+ SW-401-P	 Mayco Light Flux - 473 ml	 37	 8,00	 0,00	 83,80	 0,00	 
+ SW-402-P	 Mayco Dark Flux - 473 ml	 37	 6,00	 3,00	 85,00	 255,00	 
+ SW-502	 Yellow Gloss	 37	 6,00	 0,00	 76,30	 0,00	 
+ SW-503	 Orange Gloss	 37	 8,00	 5,00	 85,00	 425,00	 
+ SW-509	 Dark Green Gloss	 37	 8,00	 3,00	 76,30	 228,90	 
+ SW-513	 Brown Gloss	 37	 6,00	 3,00	 66,30	 198,90	 
+ TP-22	 Blue Green	 16	 1,00	 0,00	 70,00	 0,00	 
+ TP-26	 Robin&#x27;s Egg	 16	 1,00	 0,00	 70,00	 0,00	 
+ TP-54	 Lilac	 16	 3,00	 0,00	 70,00	 0,00	 
+ UG1	 Kings Blue	 35	 12,00	 0,00	 17,80	 0,00	 
+ UG10-P	 Crimson - 473 ml	 35	 2,00	 1,00	 84,80	 84,80	 
+ UG146	 Pink Pink	 35	 6,00	 4,00	 17,80	 71,20	 
+ UG146-P	 Pink Pink	 35	 2,00	 1,00	 84,80	 84,80	 
+ UG1-P	 Kings Blue - 473 ml	 35	 2,00	 1,00	 84,80	 84,80	 
+ UG203	 Squash Yellow	 35	 6,00	 0,00	 17,80	 0,00	 
+ UG203-P	 Squash Yellow	 35	 2,00	 0,00	 84,80	 0,00	 
+ UG204	 Orange	 35	 6,00	 3,00	 17,80	 53,40	 
+ UG208-P	 Dragon Red - 473 ml	 35	 2,00	 0,00	 84,80	 0,00	 
+ UG213	 Cinnamon	 35	 6,00	 0,00	 17,80	 0,00	 
+ UG215	 Blush	 35	 6,00	 0,00	 17,80	 0,00	 
+ UG215-P	 Blush - 473 ml	 35	 2,00	 1,00	 84,80	 84,80	 
+ UG222	 Soft Yellow	 35	 6,00	 5,00	 17,80	 89,00	 
+ UG223	 Apricot	 35	 6,00	 0,00	 17,80	 0,00	 
+ UG228	 Midnight Blue	 35	 6,00	 3,00	 17,80	 53,40	 
+ UG229	 Aquamarine	 35	 6,00	 1,00	 17,80	 17,80	 
+ UG236	 Grey	 35	 6,00	 0,00	 17,80	 0,00	 
+ UG2-P	 Sea Blue	 35	 2,00	 0,00	 84,80	 0,00	 
+ UG3	 Baby Blue	 35	 6,00	 5,00	 17,80	 89,00	 
+ UG31-P	 Chocolate - 473 ml	 35	 2,00	 0,00	 84,80	 0,00	 
+ UG32	 Cocoa	 35	 6,00	 5,00	 17,80	 89,00	 
+ UG34-P	 Chestnut Brown	 35	 2,00	 1,00	 84,80	 84,80	 
+ UG3-P	 Baby Blue - 473 ml	 35	 1,00	 0,00	 84,80	 0,00	 
+ UG46-P	 Bright Yellow - 473 ml	 35	 2,00	 0,00	 84,80	 0,00	 
+ UG50-P	 Jet Black - 473 ml	 35	 4,00	 0,00	 84,80	 0,00	 
+ UG51-P	 China White - 473 ml	 35	 4,00	 0,00	 84,80	 0,00	 
+ UG53	 Silver Grey	 35	 6,00	 5,00	 17,80	 89,00	 
+ UG58	 Harvest Gold	 35	 6,00	 5,00	 17,80	 89,00	 
+ UG67-P	 Ivory - 473 ml	 35	 2,00	 1,00	 84,80	 84,80	 
+ UG85	 Orange Sorbet	 35	 6,00	 0,00	 17,80	 0,00	 
+ UG87-P	 Regal Purple - 473 ml	 35	 2,00	 1,00	 84,80	 84,80	 
+ UG91	 True Teal	 35	 6,00	 2,00	 17,80	 35,60	 
+ UG92	 Lilac	 35	 6,00	 5,00	 17,80	 89,00	 
+ UT-AKG-XS	 Skyddshandskar - xs	 71	 1,00	 0,00	 120,00	 0,00	 
+ UT-BF1	 Bladhållare 4 knivblad	 71	 1,00	 0,00	 492,00	 0,00	 
+ UT-BF2	 Bladställ för 6 knivblad	 71	 4,00	 3,00	 546,00	 1 638,00	 
+ UT-CKRZ-2	 Slipsten med handtag	 71	 2,00	 0,00	 149,50	 0,00	 
+ UT-CP20MM3P	 Kiln Stilt 20 mm - 1 st	 71	 45,00	 0,00	 10,40	 0,00	 
+ UT-CP35MM3P	 Kiln Stilt 35 mm - 1 st	 71	 45,00	 0,00	 13,50	 0,00	 
+ UT-CP60MM3P	 Kiln Stilt 60 mm - 1 st	 71	 12,00	 0,00	 18,90	 0,00	 
+ UT-DEB-KG	 Skyddshandskar - styck	 65	 2,00	 0,00	 113,12	 0,00	 
+ UT-KCROH	 Versa Bar - komplett	 71	 2,00	 0,00	 260,00	 0,00	 
+ UT-KK52	 Sättplatta 52 cm diameter	 74	 10,00	 1,00	 470,50	 470,50	 
+ UT-KRK37	 Tång för raku utan tänder C66	 71	 2,00	 0,00	 372,54	 0,00	 
+ UT-KRK45	 Tång för raku C67	 71	 2,00	 0,00	 114,30	 0,00	 
+ UT-KW13	 Plattengobe - 460 gr	 71	 4,00	 2,00	 54,00	 108,00	 
+ UT-MAC-KW	 Plattengobe Mayco AC-001 - 473 ml	 71	 9,00	 8,00	 67,50	 540,00	 
+ UT-ORS04	 Käglor 04 ask 25 st - 1063°C	 71	 4,00	 0,00	 92,90	 0,00	 
+ UT-ORS05	 Käglor 05 ask 25 st - 1031°C	 71	 6,00	 1,00	 92,90	 92,90	 
+ UT-ORS07	 Käglor 07 ask 25 st - 976°C	 71	 4,00	 2,00	 92,90	 185,80	 
+ UT-ORS08	 Käglor 08 ask 25 st - 942°C	 71	 8,00	 3,00	 92,90	 278,70	 
+ UT-ORS10	 Käglor 10 ask 25 st - 1285°C	 71	 4,00	 2,00	 92,90	 185,80	 
+ UT-ORS5	 Käglor 5 ask 25 st - 1186°C	 71	 8,00	 5,00	 92,90	 464,50	 
+ UT-ORS6	 Käglor 6 ask 25 st - 1222°C	 71	 12,00	 3,00	 92,90	 278,70	 
+ UT-ORS7	 Käglor 7 ask 25 st - 1239°C	 71	 12,00	 8,00	 92,90	 743,20	 
+ UT-ORS8	 Käglor 8 ask 25 st - 1249°C	 71	 12,00	 7,00	 92,90	 650,30	 
+ UT-POST0.5	 Stolpar till sättplattor - 1,25 cm lång	 71	 4,00	 0,00	 10,00	 0,00	 
+ UT-POST10b	 Stolpar till sättplattor - 25,4 cm lång	 71	 6,00	 5,00	 64,00	 320,00	 
+ UT-POST3b	 Stolpar till sättplattor - 7,6 cm lång	 71	 6,00	 3,00	 24,00	 72,00	 
+ UT-POST5	 Stolpar till sättplattor - 12,7 cm lång	 71	 3,00	 0,00	 40,50	 0,00	 
+ UT-POST6	 Stolpar till sättplattor - 15,2 cm lång	 71	 6,00	 2,00	 27,00	 54,00	 
+ UT-RA1/2	 Roselli Stilt 19 mm - 1 st	 71	 12,00	 10,00	 8,30	 83,00	 
+ UT-RA1-4	 Roselli Stilt 14 mm - 4 fötter	 71	 20,00	 19,00	 11,40	 216,60	 
+ UT-RA6-4	 Roselli Stilt 39 mm - 4 fötter	 71	 20,00	 8,00	 17,80	 142,40	 
+ UT-RA8	 Roselli Stilt 69 mm - 1 st	 71	 8,00	 2,00	 21,50	 43,00	 
+ UT-RDP2	 Stengods Stilt - 3,97 cm - 1 st	 71	 12,00	 0,00	 14,60	 0,00	 
+ UT-RPR	 Stilts för tallrikar - set	 71	 3,00	 0,00	 98,00	 0,00	 
+ UT-SK-TERMO	 Termostat KM Skutt - 1515	 71	 6,00	 5,00	 154,00	 770,00	 
+ UT-SLING2322C	 Element BE/CE 2322 Center	 71	 1,00	 0,00	 928,00	 0,00	 
+ UT-SLING2322TB	 Element BE/CE 2322 Topp&Botton	 71	 2,00	 1,00	 688,00	 688,00	 
+ UT-SlingRod	 Slingstav till KF, KO och HT2	 71	 1,00	 0,00	 128,00	 0,00	 
+ UT-SM1018	 Sättmaterial till Skutt 1018	 71	 1,00	 0,00	 2 130,00	 0,00	 
+ UT-SM818	 Sättmaterial till Skutt 818	 71	 1,00	 0,00	 1 440,00	 0,00	 
+ W100101-1	 Klarglasyr blank - 1 kg och 1 l penselvätska - leveranstid 3 veckor	 76	 1,00	 0,00	 104,00	 0,00	 
+ W100101-5	 Klarglasyr blank - 5 kg och 5 l penselvätska - leveranstid 3 veckor	 76	 2,00	 0,00	 522,00	 0,00	 
+ V-301-2	 Ivory Beige  59 ml	 16	 12,00	 4,00	 25,40	 101,60	 
+ V-304-2	 Straw  59 ml	 16	 18,00	 16,00	 27,00	 432,00	 
+ V-308	 Yellow 473 ml	 16	 8,00	 2,00	 104,00	 208,00	 
+ V-308-2	 Yellow 59 ml	 16	 24,00	 10,00	 27,00	 270,00	 
+ V-309-2	 Deep Yellow - 59 ml	 16	 14,00	 10,00	 27,00	 270,00	 
+ V-311-2	 Nectar   59 ml	 16	 8,00	 7,00	 37,80	 264,60	 
+ V-313-2	 Red Brown	 16	 6,00	 3,00	 25,40	 76,20	 
+ V-314	 Chocolate Brown 473 ml	 16	 8,00	 0,00	 104,00	 0,00	 
+ V-314-2	 Chocolate Brown 59 ml	 16	 18,00	 13,00	 27,00	 351,00	 
+ V-317	 Coral 473 ml	 16	 12,00	 8,00	 104,00	 832,00	 
+ V-317-2	 Coral 59 ml	 16	 24,00	 6,00	 27,00	 162,00	 
+ V-320	 Lavender 473 ml	 16	 5,00	 4,00	 148,80	 595,20	 
+ V-320-2	 Lavender 59 ml	 16	 6,00	 1,00	 31,50	 31,50	 
+ V-321	 Lilac 59 ml	 16	 12,00	 0,00	 27,00	 0,00	 
+ V-324	 Blush 473 ml	 16	 7,00	 3,00	 104,00	 312,00	 
+ V-324-2	 Blush 59 ml	 16	 25,00	 24,00	 27,00	 648,00	 
+ V-325	 Baby Blue	 16	 7,00	 5,00	 104,00	 520,00	 
+ V-326	 Medium Blue 473 ml	 16	 6,00	 5,00	 104,00	 520,00	 
+ V-327-2	 Turquoise Blue 59 ml	 16	 12,00	 9,00	 27,00	 243,00	 
+ V-329	 Sea Glass 473 ml	 16	 2,00	 1,00	 104,00	 104,00	 
+ V-330-2	 Indigo  59 ml	 16	 8,00	 1,00	 27,00	 27,00	 
+ V-332	 Teal Blue 473 ml	 16	 4,00	 0,00	 104,00	 0,00	 
+ V-332-2	 Teal Blue 59 ml	 16	 18,00	 9,00	 27,00	 243,00	 
+ V-333	 Avocado - 473 ml	 16	 5,00	 3,00	 104,00	 312,00	 
+ V-336	 Royal Blue 473 ml	 16	 3,00	 1,00	 215,30	 215,30	 
+ V-341-2	 Blue Green 59 ml	 16	 18,00	 13,00	 27,00	 351,00	 
+ V-343	 Chartreuse 473 ml	 16	 5,00	 4,00	 104,00	 416,00	 
+ V-343-2	 Chartreuse 59 ml	 16	 14,00	 11,00	 27,00	 297,00	 
+ V-345	 Light Green 473 ml	 16	 2,00	 1,00	 104,00	 104,00	 
+ V-349-2	 Cactus	 16	 12,00	 8,00	 27,00	 216,00	 
+ V-359	 Ultra White	 16	 26,00	 4,00	 148,80	 595,20	 
+ V-360	 White - 473 ml	 16	 24,00	 9,00	 104,00	 936,00	 
+ V-361	 Jet Black	 16	 29,00	 13,00	 104,00	 1 352,00	 
+ V-361-2	 Jet Black	 16	 24,00	 10,00	 27,00	 270,00	 
+ V-362	 Ultra Black	 16	 12,00	 8,00	 148,80	 1 190,40	 
+ V-363	 Morning Fog 473 ml	 16	 2,00	 1,00	 140,00	 140,00	 
+ V-366-2	 Teddy Bear Brown 59 ml	 16	 8,00	 6,00	 27,00	 162,00	 
+ V-370	 Velour Black 473 ml	 16	 24,00	 17,00	 148,80	 2 529,60	 
+ V-370-2	 Velour Black 59 ml	 16	 24,00	 21,00	 33,30	 699,30	 
+ V-376-2	 Hunter Green 59 ml	 16	 22,00	 20,00	 27,00	 540,00	 
+ V-380	 Violet 473 ml	 16	 1,00	 0,00	 215,30	 0,00	 
+ V-381-2	 Amethyst 59 ml	 16	 12,00	 9,00	 37,80	 340,20	 
+ V-382	 Red 473 ml	 16	 2,00	 0,00	 215,30	 0,00	 
+ V-382-2	 Red 59 ml	 16	 12,00	 5,00	 37,80	 189,00	 
+ V-384-2	 Real Orange 59 ml	 16	 18,00	 12,00	 37,80	 453,60	 
+ V-386	 Electric Blue 473 ml	 16	 18,00	 10,00	 104,00	 1 040,00	 
+ V-387	 Bright Red	 16	 6,00	 5,00	 215,30	 1 076,50	 
+ V-387-2	 Bright Red - 59 ml	 16	 16,00	 14,00	 37,80	 529,20	 
+ V-389	 Flame Orange 473 ml	 16	 12,00	 5,00	 215,30	 1 076,50	 
+ V-390-2	 Bright Orange 59 ml	 16	 13,00	 0,00	 37,80	 0,00	 
+ V-391	 Intense Yellow 473 ml	 16	 6,00	 3,00	 203,00	 609,00	 
+ V-391-2	 Intense Yellow 59 ml	 16	 15,00	 9,00	 37,80	 340,20	 
+ V-392-2	 Blood Orange   59 ml	 16	 15,00	 13,00	 37,80	 491,40	 
+ WC-100	 Celadon Froth	 39	 12,00	 4,00	 75,00	 300,00	 
+ WC-101	 Brilliant Sunburn	 39	 10,00	 0,00	 75,00	 0,00	 
+ WC-102	 Pink Ice	 39	 8,00	 4,00	 75,00	 300,00	 
+ WC-104	 Caramel Steam	 39	 14,00	 0,00	 75,00	 0,00	 
+ WC-105	 Atlantis Aqua	 39	 15,00	 2,00	 75,00	 150,00	 
+ WC-106	 Layered Fern	 39	 12,00	 0,00	 75,00	 0,00	 
+ WC-107	 Antique Jade	 39	 24,00	 0,00	 75,00	 0,00	 
+ WC-108	 Power Turquoise	 39	 45,00	 0,00	 75,00	 0,00	 
+ WC-109	 Stormy Blue-Gray	 39	 15,00	 13,00	 75,00	 975,00	 
+ WC-110	 Turbulent Indigo	 39	 6,00	 3,00	 75,00	 225,00	 
+ WC-111	 Spotted Blue	 39	 12,00	 8,00	 75,00	 600,00	 
+ WC-130	 Fractal Cream	 39	 6,00	 0,00	 85,00	 0,00	 
+ WC-135	 Lacy Mauve	 39	 1,00	 0,00	 85,00	 0,00	 
+ WC-136	 Catalina	 39	 14,00	 0,00	 85,00	 0,00	 
+ WC-141	 Desert Sky	 39	 14,00	 10,00	 85,00	 850,00	 
+ WC-160	 Lavender Filigree	 39	 3,00	 0,00	 90,00	 0,00	 
+ WC-161	 Light Crystal	 39	 2,00	 1,00	 90,00	 90,00	 
+ WC-162	 Blue Snowflakes	 39	 3,00	 0,00	 90,00	 0,00	 
+ WC-165	 Translucent Mint	 39	 3,00	 1,00	 90,00	 90,00	 
+ WC-166	 Crystal Forest	 39	 3,00	 0,00	 90,00	 0,00	 
+ WCD-100	 Celadon Froth - Dry	 39	 2,00	 1,00	 101,50	 101,50	 
+ WCD-101	 Brilliant Sunburn - Dry	 39	 2,00	 1,00	 161,50	 161,50	 
+ WCD-102	 Pink Ice - Dry	 39	 2,00	 0,00	 133,50	 0,00	 
+ WCD-104	 Caramel Steam - Dry	 39	 2,00	 0,00	 110,50	 0,00	 
+ WCD-105	 Atlantis Aqua - Dry	 39	 2,00	 0,00	 95,50	 0,00	 
+ WCD-130	 Fractal Cream - Dry	 39	 2,00	 0,00	 214,50	 0,00	 
+ WCD-141	 Desert Sky - Dry	 39	 4,00	 3,00	 245,00	 735,00	 
+ WCD-162	 Blue Snowflakes - Dry	 39	 2,00	 0,00	 235,00	 0,00	 
+-------------------------
+ Totalt 399 375,41	 
