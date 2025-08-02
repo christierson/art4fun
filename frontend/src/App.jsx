@@ -88,7 +88,7 @@ function App() {
             })}
           </table>
         </div>
-        <Button onClick={download}>Save file</Button>
+        <Button onClick={download}>Save result</Button>
       </div>
       : <></>}
   </div>

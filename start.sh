@@ -2,7 +2,12 @@
 
 cd "$(dirname "$(realpath "$0")")"
 
-docker compose up -d
+
+if curl -s http://localhost:5173 >/dev/null; then
+    echo "✅ Frontend is ready!"
+else
+    docker compose up -d
+fi
 
 # Wait for port 3000 to be ready (up to 30 seconds)
 echo "⏳ Waiting for frontend to start..."
