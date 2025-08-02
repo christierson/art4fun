@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=MyApp
+Exec=/home/clemens/my-app/start.sh
+Type=Application
+Terminal=false
+Icon=/home/clemens/my-app/icon.png
