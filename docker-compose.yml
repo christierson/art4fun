@@ -12,3 +12,17 @@ services:
       - "5173:5173"
     volumes:
       - ./frontend:/app
+
+  backend-build:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.build
+    volumes:
+      - ./backend/dist:/app/dist
+
+  frontend-build:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.build
+    volumes:
+      - ./frontend/dist:/app/dist

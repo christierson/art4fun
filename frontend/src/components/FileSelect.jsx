@@ -11,8 +11,6 @@ const FileSelect = ({ setFile }) => {
         const file = e.target.files[0]
         setFileName(file.name)
         setFile(file)
-
-
     };
 
     const open = () => {
